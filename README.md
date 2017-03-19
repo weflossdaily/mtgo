@@ -8,7 +8,7 @@
 * A **player** _**joins**_ a **league**
 * _**Joining**_ a league queue (eventually) _starts_ a **draft**
 #### Attributes
-For details, see the screenshot in Undefeated Trophy Snapshots.
+For details, see the screenshot in [Undefeated Trophy Snapshots](#undefeated-trophy-snapshots).
 * Description
   * e.g., Aether-Revolt Kaladesh Intermediate Swiss Draft League
 * Start Date Time Stamp
@@ -24,6 +24,7 @@ For details, see the screenshot in Undefeated Trophy Snapshots.
 * Time Limits Description
   * e.g., 25 Minutes
 ### Undefeated Trophy Snapshots
+![Undefeated Trophy Snapshots](/Screenshots/League%20Screen%202017-03-18%20at%2011.06.09%20PM.png)
 #### Relationships
 * An **Undefeated Trophy Snapshot** _belongs_ to a **player**
 #### Attributes
