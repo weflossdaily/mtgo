@@ -3,12 +3,15 @@
 ### Leagues
 #### Relationships
 * **Leagues** _have_ **undefeated trophy snapshots**
+* A **League** **_matches_** some **players**
 ##### TODO
 * **Leagues** _are_ a **format**
 * A **player** _**joins**_ a **league**
 * _**Joining**_ a league queue (eventually) _starts_ a **draft**
 #### Attributes
 For details, see the screenshot in [Undefeated Trophy Snapshots](#undefeated-trophy-snapshots).
+* Id
+  * e.g., \#1599
 * Description
   * e.g., Aether-Revolt Kaladesh Intermediate Swiss Draft League
 * Start Date Time Stamp
@@ -33,11 +36,53 @@ For details, see the screenshot in [Undefeated Trophy Snapshots](#undefeated-tro
 * Last Trophy Earned Date Time Stamp
 ### Player
 #### Relationships
+* **Players** _make_ **utterances**
 ##### TODO
 * **Players** _have_ a **rating snapshot**
 #### Attributes
 * Name
+### Matches
+#### Relationships
+* A **match** has a **player**
+* A **match** has **opponents** (which are players)
+* A **match** has a **format** (which it inherits from its league)
+* A **match** has **games**
+#### Attributes
+* Date Time Stamp
+* Play Style Description
+* Game Type Description
+### Games
+#### Relationships
+* A **game** _is part of_ a **match** (represented by an **Event Id** a.k.a. **Match Id**)
+  * e.g., Event # 174369038 or Match # 174369038
+* **Games** have **actions**
+* **Games** have **utterances**
+#### Attributes
+* Number (a unique identifier)
+  * e.g., Game \# 516446950
+### Actions
+#### Relationships
+##### Optionally Parseable
+* **Actions** _involve_ (are made by, target, etc.) **players**
+* **Actions** _involve_ **cards**
+* ...and many more!
+#### Attributes
+* Sequence Number
+* Text
+##### Optionally Parsable
+* Time Stamp (NULLable, only true if no disconnect and taken from the game itself, not a replay)
+### Utterances
+#### Relationships
+##### Optionally Parseable
+* **Utterances** _are made by_ **players**
+#### Attributes
+* Sequence Number
+* Text
+##### Optionally Parsable
+* Time Stamp (NULLable, only true if no disconnect and taken from the game itself, not a replay)
 ### TODO
-* Format
+* Format (A format is a sequence of sets)
+* Set
 * Draft
+* Seat Location
 * Rating Snapshot
