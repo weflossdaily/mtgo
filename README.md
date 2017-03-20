@@ -42,6 +42,7 @@ For details, see the screenshot in [Undefeated Trophy Snapshots](#undefeated-tro
 #### Attributes
 * Name
 ### Matches
+![Match History Screen](/Screenshots/Match%20History%20Screen%20Shot%202017-03-19%20at%2010.30.31%20PM.png)
 #### Relationships
 * A **match** has a **player**
 * A **match** has **opponents** (which are players)
@@ -52,6 +53,7 @@ For details, see the screenshot in [Undefeated Trophy Snapshots](#undefeated-tro
 * Play Style Description
 * Game Type Description
 ### Games
+![Example Game Screen](/Screenshots/Game%20Screen%20Shot%202017-03-19%20at%2010.51.48%20PM.png)
 #### Relationships
 * A **game** _is part of_ a **match** (represented by an **Event Id** a.k.a. **Match Id**)
   * e.g., Event # 174369038 or Match # 174369038
