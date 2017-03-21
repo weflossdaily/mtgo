@@ -3,6 +3,7 @@
 ### Leagues
 #### Relationships
 * **Leagues** _have_ **undefeated trophy snapshots**
+* **Leagues** _have_ **active player count snapshots**
 * A **League** **_matches_** some **players**
 ##### TODO
 * **Leagues** _are_ a **format**
@@ -34,6 +35,11 @@ For details, see the screenshot in [Undefeated Trophy Snapshots](#undefeated-tro
 * Date Time Stamp
 * Undefeated Trophy Count
 * Last Trophy Earned Date Time Stamp
+### Active Player Count Snapshots
+#### Relationships
+#### Attributes
+* Player Count
+* Date Time Stamp
 ### Player
 #### Relationships
 * **Players** _make_ **utterances**
