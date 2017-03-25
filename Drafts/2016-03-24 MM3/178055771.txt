@@ -1,0 +1,112 @@
+11:24 PM: FlossDaily rolled a 3.
+11:24 PM: biokinetic rolled a 5.
+11:24 PM: biokinetic joined the game.
+11:24 PM: FlossDaily joined the game.
+11:24 PM: biokinetic chooses to play first.
+11:24 PM: biokinetic keeps this hand.
+11:24 PM: FlossDaily keeps this hand.
+11:24 PM: biokinetic skips their draw step.
+11:24 PM: biokinetic plays Plains.
+11:24 PM: biokinetic casts Soul Warden.
+11:24 PM: Turn 1: FlossDaily.
+11:25 PM: FlossDaily plays Forest.
+11:25 PM: FlossDaily casts Ulvenwald Tracker.
+11:25 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:25 PM: Turn 2: biokinetic.
+11:25 PM: biokinetic plays Gruul Guildgate.
+11:25 PM: FlossDaily is being attacked by: Soul Warden
+11:25 PM: Turn 2: FlossDaily.
+11:25 PM: FlossDaily plays Mountain.
+11:25 PM: biokinetic is being attacked by: Ulvenwald Tracker
+11:25 PM: Turn 3: biokinetic.
+11:25 PM: biokinetic plays Forest.
+11:25 PM: biokinetic casts Soul Warden.
+11:25 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:25 PM: FlossDaily is being attacked by: Soul Warden
+11:26 PM: Turn 3: FlossDaily.
+11:26 PM: FlossDaily plays Swamp.
+11:26 PM: FlossDaily casts Spike Jester.
+11:26 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:26 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:26 PM: biokinetic is being attacked by: Spike Jester
+11:26 PM: Turn 4: biokinetic.
+11:26 PM: biokinetic plays Mountain.
+11:26 PM: biokinetic casts Vital Splicer.
+11:26 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:26 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:26 PM: biokinetic puts triggered ability from Vital Splicer onto the stack (When Vital Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+11:26 PM: biokinetic's Vital Splicer creates a Golem token.
+11:26 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:26 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:27 PM: Turn 4: FlossDaily.
+11:27 PM: FlossDaily plays Mountain.
+11:27 PM: FlossDaily casts Battle-Rattle Shaman.
+11:27 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:27 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:27 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Spike Jester (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+11:27 PM: Turn 5: biokinetic.
+11:27 PM: biokinetic casts Intangible Virtue.
+11:28 PM: biokinetic casts Ulvenwald Tracker.
+11:28 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:28 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:28 PM: Turn 5: FlossDaily.
+11:28 PM: FlossDaily casts Rakdos Signet.
+11:28 PM: FlossDaily activates an ability of Ulvenwald Tracker targeting Battle-Rattle Shaman, and Ulvenwald Tracker ( Target creature you control fights another target creature.).
+11:28 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Spike Jester (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+11:29 PM: Turn 6: biokinetic.
+11:29 PM: biokinetic casts Gruul War Chant.
+11:29 PM: FlossDaily is being attacked by: Golem token, Vital Splicer, Soul Warden, Soul Warden
+11:29 PM: Battle-Rattle Shaman blocks Vital Splicer.
+11:29 PM: Spike Jester blocks Vital Splicer.
+11:29 PM: Blockers for Vital Splicer are ordered as follows: Battle-Rattle Shaman, Spike Jester
+11:29 PM: Turn 6: FlossDaily.
+11:30 PM: FlossDaily casts Auger Spree targeting Golem token.
+11:30 PM: Turn 7: biokinetic.
+11:30 PM: biokinetic plays Forest.
+11:30 PM: biokinetic casts Centaur Healer.
+11:30 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:30 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:30 PM: biokinetic puts triggered ability from Centaur Healer onto the stack (When Centaur Healer enters the battlefield, you gain 3 life.).
+11:30 PM: biokinetic casts Goblin Guide.
+11:30 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:30 PM: biokinetic puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+11:30 PM: FlossDaily is being attacked by: Goblin Guide, Soul Warden, Soul Warden
+11:30 PM: biokinetic puts triggered ability from Goblin Guide onto the stack (Whenever Goblin Guide attacks, defending player reveals the top card of his or her library. If it'...).
+11:31 PM: FlossDaily reveals Forest with Goblin Guide's ability.
+11:31 PM: FlossDaily activates an ability of Ulvenwald Tracker targeting Spike Jester, and Goblin Guide ( Target creature you control fights another target creature.).
+11:31 PM: Turn 7: FlossDaily.
+11:31 PM: FlossDaily plays Swamp.
+11:32 PM: FlossDaily casts Sever the Bloodline targeting Soul Warden.
+11:32 PM: Turn 8: biokinetic.
+11:32 PM: FlossDaily is being attacked by: Centaur Healer
+11:32 PM: Turn 8: FlossDaily.
+11:32 PM: FlossDaily plays Forest.
+11:32 PM: FlossDaily casts Golgari Rotwurm.
+11:32 PM: Turn 9: biokinetic.
+11:32 PM: FlossDaily is being attacked by: Centaur Healer
+11:33 PM: FlossDaily activates an ability of Ulvenwald Tracker targeting Golgari Rotwurm, and Centaur Healer ( Target creature you control fights another target creature.).
+11:33 PM: Turn 9: FlossDaily.
+11:33 PM: FlossDaily plays Mountain.
+11:33 PM: FlossDaily casts Golgari Rotwurm.
+11:34 PM: Turn 10: biokinetic.
+11:34 PM: biokinetic plays Mountain.
+11:34 PM: Turn 10: FlossDaily.
+11:34 PM: biokinetic is being attacked by: Golgari Rotwurm
+11:34 PM: FlossDaily casts Kathari Bomber.
+11:34 PM: FlossDaily casts Pyrewild Shaman.
+11:35 PM: Turn 11: biokinetic.
+11:35 PM: biokinetic casts Eyes in the Skies.
+11:35 PM: biokinetic's Eyes in the Skies creates a Bird token.
+11:35 PM: Turn 11: FlossDaily.
+11:35 PM: FlossDaily casts Sever the Bloodline from the graveyard targeting Bird token.
+11:35 PM: biokinetic is being attacked by: Pyrewild Shaman, Kathari Bomber, Golgari Rotwurm, Ulvenwald Tracker
+11:35 PM: FlossDaily puts triggered ability from Kathari Bomber onto the stack (When Kathari Bomber deals combat damage to a player, create 2 1/1 red Goblin creature tokens and s...).
+11:35 PM: FlossDaily's Kathari Bomber creates two Goblin tokens.
+11:35 PM: Turn 12: biokinetic.
+11:35 PM: biokinetic casts Hanweir Lancer.
+11:36 PM: Turn 12: FlossDaily.
+11:36 PM: FlossDaily activates an ability of Ulvenwald Tracker targeting Golgari Rotwurm, and Hanweir Lancer ( Target creature you control fights another target creature.).
+11:36 PM: biokinetic is being attacked by: Goblin token, Goblin token, Pyrewild Shaman, Golgari Rotwurm
+11:36 PM: FlossDaily casts Sprouting Thrinax.
+11:36 PM: Turn 13: biokinetic.
+11:36 PM: biokinetic has conceded from the game.

@@ -1,0 +1,77 @@
+9:36 PM: FlossDaily joined the game.
+9:36 PM: FlossDaily chooses to play first.
+9:36 PM: FlossDaily keeps this hand.
+9:36 PM: davethegray keeps this hand.
+9:36 PM: FlossDaily skips their draw step.
+9:36 PM: FlossDaily plays Swamp.
+9:36 PM: Turn 1: davethegray.
+9:36 PM: davethegray plays Simic Guildgate.
+9:36 PM: Turn 2: FlossDaily.
+9:36 PM: FlossDaily plays Swamp.
+9:36 PM: Turn 2: davethegray.
+9:36 PM: davethegray plays Dimir Guildgate.
+9:36 PM: Turn 3: FlossDaily.
+9:36 PM: Turn 3: davethegray.
+9:36 PM: davethegray plays Island.
+9:36 PM: davethegray casts Tandem Lookout.
+9:36 PM: Turn 4: FlossDaily.
+9:36 PM: FlossDaily plays Mountain.
+9:36 PM: Turn 4: davethegray.
+9:36 PM: FlossDaily is being attacked by: Tandem Lookout
+9:36 PM: FlossDaily casts Magma Jet targeting Tandem Lookout.
+9:36 PM: FlossDaily put a card on the bottom of the library.
+9:36 PM: FlossDaily put a card on top of FlossDaily's library.
+9:36 PM: Turn 5: FlossDaily.
+9:36 PM: FlossDaily casts Spike Jester.
+9:36 PM: davethegray is being attacked by: Spike Jester
+9:36 PM: Turn 5: davethegray.
+9:36 PM: davethegray plays Island.
+9:36 PM: davethegray casts Phantasmal Image.
+9:37 PM: FlossDaily is being attacked by: Spike Jester
+9:37 PM: Turn 6: FlossDaily.
+9:37 PM: FlossDaily plays Island.
+9:37 PM: FlossDaily casts Battle-Rattle Shaman.
+9:37 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Spike Jester (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+9:37 PM: davethegray is being attacked by: Spike Jester
+9:37 PM: Turn 6: davethegray.
+9:37 PM: davethegray plays Simic Guildgate.
+9:37 PM: Turn 7: FlossDaily.
+9:37 PM: FlossDaily plays Crumbling Necropolis.
+9:37 PM: FlossDaily casts Hanweir Lancer.
+9:37 PM: FlossDaily puts triggered ability from Hanweir Lancer onto the stack (Soulbond (When this creature enters the battlefield, you may pair it with another unpaired creat...).
+9:37 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Spike Jester (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+9:37 PM: davethegray is being attacked by: Spike Jester
+9:37 PM: Spike Jester blocks Spike Jester.
+9:37 PM: Turn 7: davethegray.
+9:37 PM: davethegray casts Urban Evolution.
+9:37 PM: davethegray draws three cards with Urban Evolution.
+9:37 PM: davethegray plays Plains.
+9:37 PM: davethegray plays Island.
+9:37 PM: davethegray casts Youthful Knight.
+9:37 PM: Turn 8: FlossDaily.
+9:37 PM: FlossDaily plays Mountain.
+9:37 PM: FlossDaily casts Thunderous Wrath targeting Youthful Knight.
+9:37 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Spike Jester (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+9:37 PM: davethegray is being attacked by: Hanweir Lancer, Battle-Rattle Shaman, Spike Jester
+9:37 PM: Turn 8: davethegray.
+9:37 PM: davethegray plays Plains.
+9:37 PM: davethegray casts Stoic Angel.
+9:37 PM: davethegray casts Wing Splicer.
+9:37 PM: davethegray puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+9:37 PM: davethegray's Wing Splicer creates a Golem token.
+9:37 PM: Turn 9: FlossDaily.
+9:37 PM: FlossDaily casts Carnage Gladiator.
+9:37 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Spike Jester (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+9:37 PM: davethegray is being attacked by: Spike Jester
+9:37 PM: Stoic Angel blocks Spike Jester.
+9:37 PM: Wing Splicer blocks Spike Jester.
+9:37 PM: Golem token blocks Spike Jester.
+9:37 PM: Stoic Angel stops blocking.
+9:37 PM: Wing Splicer stops blocking.
+9:37 PM: Golem token stops blocking.
+9:37 PM: Wing Splicer blocks Spike Jester.
+9:37 PM: FlossDaily puts triggered ability from Carnage Gladiator onto the stack (Whenever a creature blocks, that creature's controller loses 1 life. ).
+9:37 PM: Turn 9: davethegray.
+9:37 PM: FlossDaily is being attacked by: Golem token, Stoic Angel
+9:37 PM: davethegray has conceded from the game.
+9:37 PM: FlossDaily wins!

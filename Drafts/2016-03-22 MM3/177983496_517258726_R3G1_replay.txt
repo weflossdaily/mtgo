@@ -1,0 +1,48 @@
+8:32 PM: Threll rolled a 4.
+8:32 PM: FlossDaily rolled a 5.
+8:32 PM: FlossDaily joined the game.
+8:32 PM: FlossDaily chooses to play first.
+8:32 PM: FlossDaily keeps this hand.
+8:32 PM: Threll mulligans to 6 cards.
+8:32 PM: Threll keeps this hand.
+8:32 PM: Threll put a card on the bottom of the library.
+8:32 PM: FlossDaily skips their draw step.
+8:32 PM: FlossDaily plays Crumbling Necropolis.
+8:32 PM: Turn 1: Threll.
+8:32 PM: Threll plays Swamp.
+8:32 PM: Turn 2: FlossDaily.
+8:32 PM: FlossDaily plays Mountain.
+8:32 PM: Turn 2: Threll.
+8:32 PM: Turn 3: FlossDaily.
+8:32 PM: FlossDaily plays Swamp.
+8:32 PM: FlossDaily casts Sedraxis Specter.
+8:32 PM: Turn 3: Threll.
+8:32 PM: Threll plays Mountain.
+8:32 PM: Turn 4: FlossDaily.
+8:32 PM: FlossDaily plays Mountain.
+8:32 PM: FlossDaily casts Hanweir Lancer.
+8:32 PM: FlossDaily puts triggered ability from Hanweir Lancer onto the stack (Soulbond (When this creature enters the battlefield, you may pair it with another unpaired creat...).
+8:33 PM: Threll is being attacked by: Sedraxis Specter
+8:33 PM: FlossDaily puts triggered ability from Sedraxis Specter onto the stack (Whenever Sedraxis Specter deals combat damage to a player, that player discards a card.).
+8:33 PM: Threll discards Thunderous Wrath.
+8:33 PM: Turn 4: Threll.
+8:33 PM: Threll casts Pit Keeper.
+8:33 PM: Turn 5: FlossDaily.
+8:33 PM: FlossDaily plays Island.
+8:33 PM: FlossDaily casts Scourge Devil.
+8:33 PM: FlossDaily puts triggered ability from Scourge Devil onto the stack (When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.).
+8:33 PM: Threll is being attacked by: Hanweir Lancer, Sedraxis Specter
+8:33 PM: FlossDaily puts triggered ability from Sedraxis Specter onto the stack (Whenever Sedraxis Specter deals combat damage to a player, that player discards a card.).
+8:33 PM: Threll discards Night Terrors.
+8:33 PM: Turn 5: Threll.
+8:33 PM: Threll plays Savage Lands.
+8:33 PM: Threll casts Bone Splinters targeting Sedraxis Specter.
+8:33 PM: Turn 6: FlossDaily.
+8:33 PM: FlossDaily plays Swamp.
+8:33 PM: FlossDaily activates an ability of Sedraxis Specter (Unearth for  ).
+8:33 PM: FlossDaily puts triggered ability from Hanweir Lancer onto the stack (Soulbond (When another creature enters the battlefield, you may pair this creature with it.)).
+8:33 PM: Threll is being attacked by: Sedraxis Specter, Scourge Devil, Hanweir Lancer
+8:33 PM: FlossDaily casts Dynacharge for its overload cost using an alternate cost.
+8:33 PM: FlossDaily puts triggered ability from Sedraxis Specter onto the stack (Whenever Sedraxis Specter deals combat damage to a player, that player discards a card.).
+8:33 PM: Threll discards Madcap Skills.
+8:33 PM: FlossDaily wins!

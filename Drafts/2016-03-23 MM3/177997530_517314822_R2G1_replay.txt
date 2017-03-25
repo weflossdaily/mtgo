@@ -1,0 +1,109 @@
+7:51 AM: FlossDaily rolled a 5.
+7:51 AM: flatbaler87 rolled a 4.
+7:51 AM: FlossDaily joined the game.
+7:51 AM: FlossDaily chooses to play first.
+7:51 AM: FlossDaily keeps this hand.
+7:51 AM: flatbaler87 keeps this hand.
+7:51 AM: FlossDaily skips their draw step.
+7:51 AM: FlossDaily plays Azorius Guildgate.
+7:51 AM: Turn 1: flatbaler87.
+7:51 AM: flatbaler87 plays Gruul Guildgate.
+7:51 AM: Turn 2: FlossDaily.
+7:51 AM: FlossDaily plays Forest.
+7:51 AM: FlossDaily casts Coiling Oracle.
+7:51 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+7:51 AM: FlossDaily reveals Mistmeadow Witch with Coiling Oracle's ability.
+7:51 AM: Turn 2: flatbaler87.
+7:51 AM: flatbaler87 plays Mountain.
+7:51 AM: Turn 3: FlossDaily.
+7:52 AM: FlossDaily plays Selesnya Guildgate.
+7:52 AM: flatbaler87 is being attacked by: Coiling Oracle
+7:52 AM: flatbaler87 casts Magma Jet targeting Coiling Oracle.
+7:52 AM: flatbaler87 put a card on the bottom of the library.
+7:52 AM: flatbaler87 put a card on the bottom of the library.
+7:52 AM: FlossDaily casts Coiling Oracle.
+7:52 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+7:52 AM: FlossDaily reveals Plains with Coiling Oracle's ability.
+7:52 AM: Turn 3: flatbaler87.
+7:52 AM: flatbaler87 plays Mountain.
+7:52 AM: flatbaler87 casts Slaughterhorn.
+7:52 AM: Turn 4: FlossDaily.
+7:52 AM: FlossDaily plays Island.
+7:52 AM: FlossDaily casts Wing Splicer.
+7:52 AM: FlossDaily puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:52 AM: FlossDaily's Wing Splicer creates a Golem token.
+7:52 AM: Turn 4: flatbaler87.
+7:52 AM: flatbaler87 plays Forest.
+7:52 AM: flatbaler87 casts Thornscape Battlemage (with kicker).
+7:52 AM: flatbaler87 puts triggered ability from Thornscape Battlemage onto the stack targeting Wing Splicer (When Thornscape Battlemage enters the battlefield, if it was kicked with its   kicker, it deals ...).
+7:52 AM: FlossDaily is being attacked by: Slaughterhorn
+7:52 AM: Golem token blocks Slaughterhorn.
+7:52 AM: Turn 5: FlossDaily.
+7:52 AM: FlossDaily casts Fists of Ironwood targeting Coiling Oracle.
+7:52 AM: FlossDaily puts triggered ability from Fists of Ironwood onto the stack (When Fists of Ironwood enters the battlefield, create 2 1/1 green Saproling creature tokens.).
+7:52 AM: FlossDaily's Fists of Ironwood creates two Saproling tokens.
+7:52 AM: Turn 5: flatbaler87.
+7:52 AM: flatbaler87 plays Forest.
+7:52 AM: flatbaler87 casts Mogg Flunkies.
+7:52 AM: flatbaler87 casts Giantbaiting.
+7:52 AM: flatbaler87 puts triggered ability from Giantbaiting onto the stack (Conspire (As you cast this spell, you may tap two untapped creatures you control that share a co...).
+7:52 AM: flatbaler87's Giantbaiting creates a Giant Warrior token.
+7:52 AM: flatbaler87's Giantbaiting creates a Giant Warrior token.
+7:52 AM: FlossDaily is being attacked by: Giant Warrior token, Giant Warrior token
+7:52 AM: Saproling token blocks Giant Warrior token.
+7:52 AM: flatbaler87 puts triggered ability from Giantbaiting onto the stack (Exile tokens).
+7:52 AM: flatbaler87 puts triggered ability from Giantbaiting onto the stack (Exile tokens).
+7:52 AM: FlossDaily casts Forbidden Alchemy.
+7:52 AM: FlossDaily puts Forest, Forest, and Forest into their graveyard..
+7:52 AM: Turn 6: FlossDaily.
+7:52 AM: FlossDaily plays Island.
+7:52 AM: FlossDaily casts Mistmeadow Witch.
+7:52 AM: Turn 6: flatbaler87.
+7:52 AM: FlossDaily is being attacked by: Mogg Flunkies, Thornscape Battlemage
+7:52 AM: Coiling Oracle blocks Mogg Flunkies.
+7:52 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Coiling Oracle ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:52 AM: flatbaler87 casts Chandra's Outrage targeting Coiling Oracle.
+7:52 AM: FlossDaily's Mistmeadow Witch is countered because it has no legal targets.
+7:52 AM: Turn 7: FlossDaily.
+7:52 AM: FlossDaily plays Plains.
+7:52 AM: FlossDaily casts Basilisk Collar.
+7:52 AM: FlossDaily activates an ability of Basilisk Collar targeting Saproling token (Equip  ).
+7:53 AM: Turn 7: flatbaler87.
+7:53 AM: FlossDaily is being attacked by: Mogg Flunkies, Thornscape Battlemage
+7:53 AM: Saproling token blocks Mogg Flunkies.
+7:53 AM: flatbaler87 casts Vital Splicer.
+7:53 AM: flatbaler87 puts triggered ability from Vital Splicer onto the stack (When Vital Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:53 AM: flatbaler87's Vital Splicer creates a Golem token.
+7:53 AM: FlossDaily casts Gifts Ungiven targeting flatbaler87.
+7:53 AM: FlossDaily reveals Grasp of Phantoms.
+7:53 AM: FlossDaily reveals Kor Skyfisher.
+7:53 AM: FlossDaily reveals Lone Missionary.
+7:53 AM: FlossDaily reveals Tandem Lookout.
+7:53 AM: Turn 8: FlossDaily.
+7:53 AM: FlossDaily plays Island.
+7:53 AM: FlossDaily casts Grasp of Phantoms targeting Golem token.
+7:53 AM: FlossDaily casts Tandem Lookout.
+7:53 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When this creature enters the battlefield, you may pair it with another unpaired creat...).
+7:53 AM: flatbaler87 is being attacked by: Mistmeadow Witch
+7:53 AM: Vital Splicer blocks Mistmeadow Witch.
+7:53 AM: FlossDaily discards Slaughterhorn.
+7:53 AM: FlossDaily activates an ability of Slaughterhorn targeting Mistmeadow Witch ( Target attacking creature gets +3/+2 until end of turn.).
+7:53 AM: Turn 8: flatbaler87.
+7:53 AM: flatbaler87 plays Forest.
+7:53 AM: FlossDaily is being attacked by: Thornscape Battlemage
+7:53 AM: flatbaler87 casts Death-Hood Cobra.
+7:53 AM: flatbaler87 casts Ground Assault targeting Mistmeadow Witch.
+7:53 AM: Turn 9: FlossDaily.
+7:53 AM: FlossDaily activates an ability of Basilisk Collar targeting Tandem Lookout (Equip  ).
+7:53 AM: Turn 9: flatbaler87.
+7:53 AM: FlossDaily is being attacked by: Death-Hood Cobra, Thornscape Battlemage
+7:53 AM: flatbaler87 casts Dragon Fodder.
+7:53 AM: flatbaler87's Dragon Fodder creates two Goblin tokens.
+7:53 AM: Turn 10: FlossDaily.
+7:53 AM: flatbaler87 is being attacked by: Tandem Lookout
+7:53 AM: FlossDaily plays Island.
+7:53 AM: Turn 10: flatbaler87.
+7:53 AM: FlossDaily is being attacked by: Goblin token, Goblin token, Death-Hood Cobra, Thornscape Battlemage
+7:53 AM: Turn 11: FlossDaily.
+7:53 AM: FlossDaily has conceded from the game.
+7:53 AM: flatbaler87

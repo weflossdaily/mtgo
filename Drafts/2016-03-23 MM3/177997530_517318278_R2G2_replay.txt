@@ -1,0 +1,88 @@
+7:58 AM: FlossDaily joined the game.
+7:58 AM: FlossDaily chooses to play first.
+7:58 AM: FlossDaily keeps this hand.
+7:58 AM: flatbaler87 mulligans to 6 cards.
+7:58 AM: flatbaler87 mulligans to 5 cards.
+7:58 AM: flatbaler87 keeps this hand.
+7:58 AM: flatbaler87 put a card on the bottom of the library.
+7:58 AM: FlossDaily skips their draw step.
+7:58 AM: FlossDaily plays Azorius Guildgate.
+7:58 AM: Turn 1: flatbaler87.
+7:58 AM: flatbaler87 plays Forest.
+7:58 AM: Turn 2: FlossDaily.
+7:58 AM: FlossDaily plays Forest.
+7:58 AM: FlossDaily casts Coiling Oracle.
+7:58 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+7:58 AM: FlossDaily reveals Selesnya Guildgate with Coiling Oracle's ability.
+7:58 AM: Turn 2: flatbaler87.
+7:58 AM: flatbaler87 plays Forest.
+7:58 AM: flatbaler87 casts Death-Hood Cobra.
+7:58 AM: Turn 3: FlossDaily.
+7:58 AM: FlossDaily plays Island.
+7:58 AM: FlossDaily casts Wayfaring Temple.
+7:58 AM: Turn 3: flatbaler87.
+7:58 AM: flatbaler87 plays Forest.
+7:58 AM: FlossDaily is being attacked by: Death-Hood Cobra
+7:58 AM: flatbaler87 casts Slaughterhorn.
+7:58 AM: Turn 4: FlossDaily.
+7:58 AM: FlossDaily plays Plains.
+7:58 AM: FlossDaily casts Tandem Lookout.
+7:58 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When this creature enters the battlefield, you may pair it with another unpaired creat...).
+7:58 AM: FlossDaily casts Sylvan Ranger.
+7:58 AM: FlossDaily puts triggered ability from Sylvan Ranger onto the stack (When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reve...).
+7:58 AM: FlossDaily reveals Island.
+7:58 AM: flatbaler87 is being attacked by: Wayfaring Temple
+7:58 AM: FlossDaily puts triggered ability from Wayfaring Temple onto the stack (Whenever Wayfaring Temple deals combat damage to a player, populate.).
+7:58 AM: FlossDaily puts triggered ability from Wayfaring Temple onto the stack (Whenever this creature deals damage to an opponent, draw a card.).
+7:58 AM: FlossDaily draws a card with Wayfaring Temple's ability.
+7:58 AM: FlossDaily has no creature tokens to copy.
+7:58 AM: Turn 4: flatbaler87.
+7:58 AM: flatbaler87 plays Mountain.
+7:58 AM: FlossDaily is being attacked by: Slaughterhorn
+7:58 AM: flatbaler87 casts Mogg Flunkies.
+7:58 AM: Turn 5: FlossDaily.
+7:58 AM: FlossDaily plays Island.
+7:58 AM: Turn 5: flatbaler87.
+7:58 AM: flatbaler87 plays Forest.
+7:58 AM: FlossDaily is being attacked by: Mogg Flunkies, Slaughterhorn
+7:58 AM: Wayfaring Temple blocks Mogg Flunkies.
+7:58 AM: flatbaler87 discards Slaughterhorn.
+7:58 AM: flatbaler87 activates an ability of Slaughterhorn targeting Mogg Flunkies ( Target attacking creature gets +3/+2 until end of turn.).
+7:58 AM: FlossDaily casts Forbidden Alchemy.
+7:58 AM: FlossDaily puts Island, Forest, and Orzhov Guildgate into their graveyard..
+7:58 AM: FlossDaily casts Strength in Numbers targeting Wayfaring Temple.
+7:58 AM: Turn 6: FlossDaily.
+7:58 AM: FlossDaily plays Plains.
+7:59 AM: FlossDaily casts Coiling Oracle.
+7:59 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+7:59 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When another creature enters the battlefield, you may pair this creature with it.)).
+7:59 AM: FlossDaily reveals Island with Coiling Oracle's ability.
+7:59 AM: Turn 6: flatbaler87.
+7:59 AM: FlossDaily is being attacked by: Slaughterhorn, Death-Hood Cobra
+7:59 AM: Coiling Oracle blocks Slaughterhorn.
+7:59 AM: Sylvan Ranger blocks Slaughterhorn.
+7:59 AM: Blockers for Slaughterhorn are ordered as follows: Coiling Oracle, Sylvan Ranger
+7:59 AM: flatbaler87 casts Death-Hood Cobra.
+7:59 AM: FlossDaily casts Mystic Genesis targeting Death-Hood Cobra.
+7:59 AM: FlossDaily's Mystic Genesis creates an Ooze token.
+7:59 AM: Turn 7: FlossDaily.
+7:59 AM: flatbaler87 is being attacked by: Coiling Oracle, Tandem Lookout
+7:59 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (Whenever this creature deals damage to an opponent, draw a card.).
+7:59 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Whenever this creature deals damage to an opponent, draw a card.).
+7:59 AM: FlossDaily draws a card with Tandem Lookout's ability.
+7:59 AM: FlossDaily draws a card with Coiling Oracle's ability.
+7:59 AM: FlossDaily plays Dimir Guildgate.
+7:59 AM: FlossDaily casts Fists of Ironwood targeting Ooze token.
+7:59 AM: FlossDaily puts triggered ability from Fists of Ironwood onto the stack (When Fists of Ironwood enters the battlefield, create 2 1/1 green Saproling creature tokens.).
+7:59 AM: FlossDaily's Fists of Ironwood creates two Saproling tokens.
+7:59 AM: Turn 7: flatbaler87.
+7:59 AM: flatbaler87 plays Mountain.
+7:59 AM: FlossDaily casts Gifts Ungiven targeting flatbaler87.
+7:59 AM: FlossDaily reveals Mistmeadow Witch.
+7:59 AM: FlossDaily reveals Mist Raven.
+7:59 AM: FlossDaily reveals Grasp of Phantoms.
+7:59 AM: FlossDaily reveals Basilisk Collar.
+7:59 AM: Turn 8: FlossDaily.
+7:59 AM: FlossDaily casts Grasp of Phantoms from the graveyard targeting Death-Hood Cobra.
+7:59 AM: flatbaler87 has conceded from the game.
+7:59 AM: FlossDaily wins!

@@ -1,0 +1,67 @@
+8:55 PM: FlossDaily joined the game.
+8:55 PM: davethegray chooses to play first.
+8:55 PM: davethegray keeps this hand.
+8:55 PM: FlossDaily keeps this hand.
+8:55 PM: davethegray skips their draw step.
+8:55 PM: davethegray plays Simic Guildgate.
+8:55 PM: Turn 1: FlossDaily.
+8:55 PM: FlossDaily plays Crumbling Necropolis.
+8:55 PM: Turn 2: davethegray.
+8:55 PM: davethegray plays Dimir Guildgate.
+8:55 PM: Turn 2: FlossDaily.
+8:55 PM: FlossDaily plays Dimir Guildgate.
+8:55 PM: Turn 3: davethegray.
+8:55 PM: davethegray plays Island.
+8:55 PM: Turn 3: FlossDaily.
+8:55 PM: FlossDaily plays Mountain.
+8:55 PM: FlossDaily casts Sedraxis Specter.
+9:34 PM: FlossDaily joined the game.
+9:34 PM: davethegray chooses to play first.
+9:34 PM: davethegray keeps this hand.
+9:34 PM: FlossDaily keeps this hand.
+9:34 PM: davethegray skips their draw step.
+9:34 PM: davethegray plays Simic Guildgate.
+9:34 PM: Turn 1: FlossDaily.
+9:34 PM: FlossDaily plays Crumbling Necropolis.
+9:34 PM: Turn 2: davethegray.
+9:34 PM: davethegray plays Dimir Guildgate.
+9:34 PM: Turn 2: FlossDaily.
+9:34 PM: FlossDaily plays Dimir Guildgate.
+9:34 PM: Turn 3: davethegray.
+9:34 PM: davethegray plays Island.
+9:34 PM: Turn 3: FlossDaily.
+9:34 PM: FlossDaily plays Mountain.
+9:34 PM: FlossDaily casts Sedraxis Specter.
+9:34 PM: Turn 4: davethegray.
+9:34 PM: davethegray plays Plains.
+9:34 PM: Turn 4: FlossDaily.
+9:34 PM: davethegray casts Crippling Chill targeting Sedraxis Specter.
+9:34 PM: davethegray draws a card with Crippling Chill.
+9:34 PM: FlossDaily plays Swamp.
+9:34 PM: FlossDaily casts Battle-Rattle Shaman.
+9:34 PM: Turn 5: davethegray.
+9:34 PM: davethegray casts Simic Signet.
+9:34 PM: davethegray plays Plains.
+9:34 PM: davethegray casts Tandem Lookout.
+9:34 PM: Turn 5: FlossDaily.
+9:34 PM: FlossDaily plays Swamp.
+9:34 PM: FlossDaily casts Hanweir Lancer.
+9:34 PM: FlossDaily puts triggered ability from Hanweir Lancer onto the stack (Soulbond (When this creature enters the battlefield, you may pair it with another unpaired creat...).
+9:34 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Battle-Rattle Shaman (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+9:34 PM: davethegray is being attacked by: Battle-Rattle Shaman
+9:34 PM: Turn 6: davethegray.
+9:34 PM: davethegray plays Island.
+9:34 PM: Turn 6: FlossDaily.
+9:34 PM: FlossDaily plays Swamp.
+9:34 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Sedraxis Specter (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+9:34 PM: davethegray is being attacked by: Hanweir Lancer, Battle-Rattle Shaman, Sedraxis Specter
+9:34 PM: FlossDaily puts triggered ability from Sedraxis Specter onto the stack (Whenever Sedraxis Specter deals combat damage to a player, that player discards a card.).
+9:34 PM: davethegray discards Plains.
+9:35 PM: Turn 7: davethegray.
+9:35 PM: davethegray casts Rhox War Monk.
+9:35 PM: davethegray puts triggered ability from Tandem Lookout onto the stack (Soulbond (When another creature enters the battlefield, you may pair this creature with it.)).
+9:35 PM: davethegray plays Island.
+9:35 PM: FlossDaily is being attacked by: Tandem Lookout
+9:35 PM: FlossDaily casts Chandra's Outrage targeting Rhox War Monk.
+9:35 PM: davethegray has conceded from the game.
+9:35 PM: FlossDaily wins!

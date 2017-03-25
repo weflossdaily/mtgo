@@ -1,0 +1,77 @@
+9:38 PM: davethegray rolled a 4.
+9:38 PM: FlossDaily rolled a 1.
+9:38 PM: FlossDaily joined the game.
+9:38 PM: davethegray chooses to play first.
+9:38 PM: davethegray keeps this hand.
+9:38 PM: FlossDaily keeps this hand.
+9:38 PM: davethegray skips their draw step.
+9:38 PM: davethegray plays Island.
+9:38 PM: Turn 1: FlossDaily.
+9:38 PM: FlossDaily plays Mountain.
+9:38 PM: Turn 2: davethegray.
+9:38 PM: davethegray plays Plains.
+9:38 PM: davethegray casts Simic Signet.
+9:38 PM: Turn 2: FlossDaily.
+9:38 PM: FlossDaily plays Swamp.
+9:38 PM: FlossDaily casts Spike Jester.
+9:38 PM: davethegray is being attacked by: Spike Jester
+9:38 PM: Turn 3: davethegray.
+9:38 PM: davethegray plays Plains.
+9:38 PM: davethegray casts Wing Splicer.
+9:38 PM: davethegray puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+9:38 PM: davethegray's Wing Splicer creates a Golem token.
+9:38 PM: Turn 3: FlossDaily.
+9:38 PM: FlossDaily plays Island.
+9:38 PM: davethegray is being attacked by: Spike Jester
+9:39 PM: Wing Splicer blocks Spike Jester.
+9:39 PM: FlossDaily casts Sedraxis Specter.
+9:39 PM: Turn 4: davethegray.
+9:39 PM: davethegray casts Dimir Signet.
+9:39 PM: davethegray casts Talon Trooper.
+9:39 PM: FlossDaily is being attacked by: Golem token
+9:39 PM: Turn 4: FlossDaily.
+9:39 PM: FlossDaily plays Dimir Guildgate.
+9:39 PM: FlossDaily casts Kathari Bomber.
+9:39 PM: Turn 5: davethegray.
+9:39 PM: davethegray plays Dimir Guildgate.
+9:39 PM: davethegray casts Youthful Knight.
+9:39 PM: FlossDaily is being attacked by: Golem token
+9:39 PM: Turn 5: FlossDaily.
+9:39 PM: FlossDaily plays Swamp.
+9:39 PM: FlossDaily casts Dragon Fodder.
+9:39 PM: FlossDaily's Dragon Fodder creates two Goblin tokens.
+9:39 PM: Turn 6: davethegray.
+9:39 PM: davethegray plays Plains.
+9:39 PM: davethegray casts Dinrova Horror.
+9:39 PM: davethegray puts triggered ability from Dinrova Horror onto the stack targeting Sedraxis Specter (When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that...).
+9:39 PM: davethegray returns Sedraxis Specter to its owner's hand with Dinrova Horror's ability.
+9:39 PM: FlossDaily discards Magma Jet.
+9:39 PM: FlossDaily is being attacked by: Youthful Knight, Talon Trooper, Golem token
+9:39 PM: Turn 6: FlossDaily.
+9:39 PM: FlossDaily plays Mountain.
+9:39 PM: davethegray is being attacked by: Kathari Bomber
+9:39 PM: FlossDaily puts triggered ability from Kathari Bomber onto the stack (When Kathari Bomber deals combat damage to a player, create 2 1/1 red Goblin creature tokens and s...).
+9:39 PM: FlossDaily's Kathari Bomber creates two Goblin tokens.
+9:39 PM: FlossDaily casts Sedraxis Specter.
+9:39 PM: Turn 7: davethegray.
+9:39 PM: FlossDaily is being attacked by: Dinrova Horror, Youthful Knight, Talon Trooper, Golem token
+9:39 PM: Goblin token blocks Golem token.
+9:39 PM: Goblin token blocks Dinrova Horror.
+9:39 PM: Goblin token blocks Youthful Knight.
+9:39 PM: davethegray casts Urban Evolution.
+9:39 PM: davethegray draws three cards with Urban Evolution.
+9:39 PM: davethegray plays Plains.
+9:39 PM: Turn 7: FlossDaily.
+9:39 PM: FlossDaily plays Swamp.
+9:39 PM: FlossDaily casts Bonfire of the Damned targeting davethegray. (X is 3).
+9:39 PM: davethegray is being attacked by: Sedraxis Specter
+9:39 PM: FlossDaily puts triggered ability from Sedraxis Specter onto the stack (Whenever Sedraxis Specter deals combat damage to a player, that player discards a card.).
+9:39 PM: davethegray discards Simic Guildgate.
+9:39 PM: davethegray casts Deputy of Acquittals.
+9:39 PM: davethegray puts triggered ability from Deputy of Acquittals onto the stack targeting Dinrova Horror (When Deputy of Acquittals enters the battlefield, you may return another target creature you contr...).
+9:39 PM: davethegray chooses not to use Deputy of Acquittals's ability.
+9:39 PM: Turn 8: davethegray.
+9:39 PM: davethegray casts Crippling Chill targeting Goblin token.
+9:39 PM: davethegray draws a card with Crippling Chill.
+9:40 PM: FlossDaily is being attacked by: Deputy of Acquittals, Dinrova Horror
+9:40 PM: davethegray

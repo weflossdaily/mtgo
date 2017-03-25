@@ -1,0 +1,87 @@
+8:00 AM: FlossDaily joined the game.
+8:00 AM: flatbaler87 chooses to play first.
+8:00 AM: flatbaler87 keeps this hand.
+8:00 AM: FlossDaily keeps this hand.
+8:00 AM: flatbaler87 skips their draw step.
+8:00 AM: flatbaler87 plays Forest.
+8:00 AM: Turn 1: FlossDaily.
+8:00 AM: FlossDaily plays Selesnya Guildgate.
+8:00 AM: Turn 2: flatbaler87.
+8:00 AM: flatbaler87 plays Mountain.
+8:00 AM: flatbaler87 casts Dragon Fodder.
+8:00 AM: flatbaler87's Dragon Fodder creates two Goblin tokens.
+8:00 AM: Turn 2: FlossDaily.
+8:00 AM: FlossDaily plays Forest.
+8:00 AM: FlossDaily casts Death-Hood Cobra.
+8:00 AM: Turn 3: flatbaler87.
+8:00 AM: flatbaler87 plays Mountain.
+8:00 AM: FlossDaily is being attacked by: Goblin token, Goblin token
+8:00 AM: flatbaler87 casts Mogg Flunkies.
+8:00 AM: Turn 3: FlossDaily.
+8:00 AM: FlossDaily plays Island.
+8:00 AM: FlossDaily casts Tandem Lookout.
+8:00 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When this creature enters the battlefield, you may pair it with another unpaired creat...).
+8:01 AM: flatbaler87 is being attacked by: Death-Hood Cobra
+8:01 AM: FlossDaily puts triggered ability from Death-Hood Cobra onto the stack (Whenever this creature deals damage to an opponent, draw a card.).
+8:01 AM: FlossDaily draws a card with Death-Hood Cobra's ability.
+8:01 AM: Turn 4: flatbaler87.
+8:01 AM: FlossDaily is being attacked by: Mogg Flunkies, Goblin token, Goblin token
+8:01 AM: flatbaler87 casts Slaughterhorn.
+8:01 AM: Turn 4: FlossDaily.
+8:01 AM: FlossDaily plays Island.
+8:01 AM: FlossDaily casts Grasp of Phantoms targeting Mogg Flunkies.
+8:01 AM: flatbaler87 is being attacked by: Tandem Lookout
+8:01 AM: Slaughterhorn blocks Tandem Lookout.
+8:01 AM: Turn 5: flatbaler87.
+8:01 AM: flatbaler87 casts Mogg Flunkies.
+8:01 AM: Turn 5: FlossDaily.
+8:01 AM: FlossDaily casts Coiling Oracle.
+8:01 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+8:01 AM: FlossDaily reveals Island with Coiling Oracle's ability.
+8:01 AM: FlossDaily plays Forest.
+8:01 AM: FlossDaily casts Mistmeadow Witch.
+8:01 AM: Turn 6: flatbaler87.
+8:01 AM: flatbaler87 plays Forest.
+8:01 AM: FlossDaily is being attacked by: Mogg Flunkies, Goblin token, Goblin token
+8:01 AM: Death-Hood Cobra blocks Goblin token.
+8:01 AM: flatbaler87 casts Death-Hood Cobra.
+8:01 AM: flatbaler87 casts Death-Hood Cobra.
+8:01 AM: Turn 6: FlossDaily.
+8:01 AM: FlossDaily plays Forest.
+8:01 AM: FlossDaily casts Fists of Ironwood targeting Death-Hood Cobra.
+8:01 AM: FlossDaily puts triggered ability from Fists of Ironwood onto the stack (When Fists of Ironwood enters the battlefield, create 2 1/1 green Saproling creature tokens.).
+8:01 AM: FlossDaily's Fists of Ironwood creates two Saproling tokens.
+8:01 AM: Turn 7: flatbaler87.
+8:01 AM: flatbaler87 casts Thornscape Battlemage (with kicker).
+8:01 AM: flatbaler87 puts triggered ability from Thornscape Battlemage onto the stack targeting Mistmeadow Witch (When Thornscape Battlemage enters the battlefield, if it was kicked with its   kicker, it deals ...).
+8:01 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Mistmeadow Witch ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+8:01 AM: flatbaler87's Triggered ability from Thornscape Battlemage is countered because it has no legal targets.
+8:01 AM: FlossDaily is being attacked by: Death-Hood Cobra, Death-Hood Cobra, Mogg Flunkies, Goblin token
+8:01 AM: Death-Hood Cobra blocks Goblin token.
+8:01 AM: Saproling token blocks Mogg Flunkies.
+8:01 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Mistmeadow Witch to the battlefield under its owner's control at the beginning of the next ...).
+8:01 AM: Turn 7: FlossDaily.
+8:01 AM: FlossDaily plays Dimir Guildgate.
+8:01 AM: Turn 8: flatbaler87.
+8:01 AM: flatbaler87 plays Forest.
+8:01 AM: FlossDaily is being attacked by: Thornscape Battlemage, Death-Hood Cobra, Death-Hood Cobra, Mogg Flunkies
+8:01 AM: Death-Hood Cobra blocks Mogg Flunkies.
+8:01 AM: Coiling Oracle blocks Death-Hood Cobra.
+8:01 AM: Saproling token blocks Thornscape Battlemage.
+8:01 AM: FlossDaily activates an ability of Death-Hood Cobra ( Death-Hood Cobra gains deathtouch until end of turn.).
+8:01 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Coiling Oracle ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+8:02 AM: flatbaler87 casts Chandra's Outrage targeting Mistmeadow Witch.
+8:02 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Coiling Oracle to the battlefield under its owner's control at the beginning of the next en...).
+8:02 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+8:02 AM: FlossDaily reveals Mist Raven with Coiling Oracle's ability.
+8:02 AM: Turn 8: FlossDaily.
+8:02 AM: FlossDaily plays Plains.
+8:02 AM: FlossDaily casts Mist Raven.
+8:02 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Death-Hood Cobra (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+8:02 AM: FlossDaily returns Death-Hood Cobra to its owner's hand with Mist Raven's ability.
+8:02 AM: FlossDaily casts Unflinching Courage targeting Coiling Oracle.
+8:02 AM: flatbaler87 is being attacked by: Coiling Oracle
+8:02 AM: Turn 9: flatbaler87.
+8:02 AM: flatbaler87 casts Gruul War Chant.
+8:02 AM: FlossDaily is being attacked by: Thornscape Battlemage, Death-Hood Cobra
+8:02 AM: flatbaler87 wins!

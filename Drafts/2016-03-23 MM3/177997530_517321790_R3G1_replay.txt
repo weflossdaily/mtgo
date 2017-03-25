@@ -1,0 +1,81 @@
+8:04 AM: FlossDaily rolled a 5.
+8:04 AM: KidWWF1 rolled a 4.
+8:04 AM: FlossDaily joined the game.
+8:04 AM: FlossDaily chooses to play first.
+8:04 AM: FlossDaily keeps this hand.
+8:04 AM: KidWWF1 mulligans to 6 cards.
+8:04 AM: KidWWF1 keeps this hand.
+8:04 AM: KidWWF1 put a card on top of KidWWF1's library.
+8:04 AM: FlossDaily skips their draw step.
+8:04 AM: FlossDaily plays Selesnya Guildgate.
+8:04 AM: Turn 1: KidWWF1.
+8:04 AM: KidWWF1 plays Seaside Citadel.
+8:04 AM: Turn 2: FlossDaily.
+8:04 AM: FlossDaily plays Island.
+8:04 AM: FlossDaily casts Coiling Oracle.
+8:04 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+8:04 AM: FlossDaily reveals Island with Coiling Oracle's ability.
+8:04 AM: Turn 2: KidWWF1.
+8:04 AM: KidWWF1 plays Forest.
+8:04 AM: KidWWF1 casts Explore.
+8:04 AM: KidWWF1 draws a card with Explore.
+8:04 AM: Turn 3: FlossDaily.
+8:04 AM: FlossDaily plays Forest.
+8:04 AM: KidWWF1 is being attacked by: Coiling Oracle
+8:04 AM: FlossDaily casts Wayfaring Temple.
+8:04 AM: Turn 3: KidWWF1.
+8:04 AM: KidWWF1 casts Death-Hood Cobra.
+8:04 AM: Turn 4: FlossDaily.
+8:04 AM: FlossDaily plays Azorius Guildgate.
+8:04 AM: FlossDaily casts Death-Hood Cobra.
+8:04 AM: KidWWF1 is being attacked by: Wayfaring Temple
+8:04 AM: FlossDaily puts triggered ability from Wayfaring Temple onto the stack (Whenever Wayfaring Temple deals combat damage to a player, populate.).
+8:04 AM: FlossDaily has no creature tokens to copy.
+8:04 AM: Turn 4: KidWWF1.
+8:04 AM: KidWWF1 casts Fists of Ironwood targeting Death-Hood Cobra.
+8:04 AM: KidWWF1 puts triggered ability from Fists of Ironwood onto the stack (When Fists of Ironwood enters the battlefield, create 2 1/1 green Saproling creature tokens.).
+8:04 AM: KidWWF1's Fists of Ironwood creates two Saproling tokens.
+8:04 AM: Turn 5: FlossDaily.
+8:04 AM: FlossDaily plays Forest.
+8:04 AM: Turn 5: KidWWF1.
+8:04 AM: KidWWF1 plays Plains.
+8:04 AM: KidWWF1 casts Fists of Ironwood targeting Death-Hood Cobra.
+8:04 AM: FlossDaily casts Mystic Genesis targeting Fists of Ironwood.
+8:04 AM: FlossDaily's Mystic Genesis creates an Ooze token.
+8:04 AM: Turn 6: FlossDaily.
+8:04 AM: FlossDaily plays Selesnya Guildgate.
+8:04 AM: FlossDaily casts Forbidden Alchemy.
+8:04 AM: FlossDaily puts Forest, Death-Hood Cobra, and Lone Missionary into their graveyard..
+8:05 AM: FlossDaily casts Basilisk Collar.
+8:05 AM: KidWWF1 is being attacked by: Wayfaring Temple
+8:05 AM: Death-Hood Cobra blocks Wayfaring Temple.
+8:05 AM: Saproling token blocks Wayfaring Temple.
+8:05 AM: Saproling token blocks Wayfaring Temple.
+8:05 AM: Blockers for Wayfaring Temple are ordered as follows: Death-Hood Cobra, Saproling token, Saproling token
+8:05 AM: FlossDaily casts Graceful Reprieve targeting Wayfaring Temple.
+8:05 AM: FlossDaily puts triggered ability from Graceful Reprieve onto the stack (When Wayfaring Temple dies this turn, return it to the battlefield under FlossDaily's control.).
+8:05 AM: Turn 6: KidWWF1.
+8:05 AM: KidWWF1 casts Slime Molding. (X is 2).
+8:05 AM: KidWWF1's Slime Molding creates an Ooze token.
+8:05 AM: Turn 7: FlossDaily.
+8:05 AM: FlossDaily activates an ability of Basilisk Collar targeting Coiling Oracle (Equip  ).
+8:05 AM: KidWWF1 is being attacked by: Wayfaring Temple, Death-Hood Cobra, Coiling Oracle
+8:05 AM: Ooze token blocks Death-Hood Cobra.
+8:05 AM: FlossDaily puts triggered ability from Wayfaring Temple onto the stack (Whenever Wayfaring Temple deals combat damage to a player, populate.).
+8:05 AM: Turn 7: KidWWF1.
+8:05 AM: KidWWF1 plays Plains.
+8:05 AM: KidWWF1 casts Penumbra Spider.
+8:05 AM: Turn 8: FlossDaily.
+8:05 AM: FlossDaily casts Tandem Lookout.
+8:05 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When this creature enters the battlefield, you may pair it with another unpaired creat...).
+8:05 AM: KidWWF1 is being attacked by: Ooze token, Wayfaring Temple, Ooze token, Coiling Oracle
+8:05 AM: Penumbra Spider blocks Coiling Oracle.
+8:05 AM: FlossDaily puts triggered ability from Wayfaring Temple onto the stack (Whenever Wayfaring Temple deals combat damage to a player, populate.).
+8:05 AM: KidWWF1 puts triggered ability from Penumbra Spider onto the stack (When Penumbra Spider dies, create a 2/4 black Spider creature token with reach.).
+8:05 AM: KidWWF1's Penumbra Spider creates a Spider token.
+8:05 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When another creature enters the battlefield, you may pair this creature with it.)).
+8:05 AM: FlossDaily activates an ability of Basilisk Collar targeting Ooze token (Equip  ).
+8:05 AM: Turn 8: KidWWF1.
+8:05 AM: KidWWF1 plays Plains.
+8:05 AM: KidWWF1 has conceded from the game.
+8:05 AM: FlossDaily wins!

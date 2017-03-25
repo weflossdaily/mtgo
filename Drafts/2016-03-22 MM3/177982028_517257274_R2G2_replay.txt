@@ -1,0 +1,86 @@
+8:46 PM: FlossDaily joined the game.
+8:47 PM: FlossDaily chooses to play first.
+8:47 PM: FlossDaily keeps this hand.
+8:47 PM: AngryPheldagrif keeps this hand.
+8:47 PM: FlossDaily skips their draw step.
+8:47 PM: FlossDaily plays Crumbling Necropolis.
+8:47 PM: Turn 1: AngryPheldagrif.
+8:47 PM: AngryPheldagrif plays Jungle Shrine.
+8:47 PM: Turn 2: FlossDaily.
+8:47 PM: FlossDaily plays Mountain.
+8:47 PM: FlossDaily casts Spike Jester.
+8:47 PM: AngryPheldagrif is being attacked by: Spike Jester
+8:47 PM: Turn 2: AngryPheldagrif.
+8:47 PM: AngryPheldagrif plays Plains.
+8:47 PM: AngryPheldagrif casts Selesnya Signet.
+8:47 PM: Turn 3: FlossDaily.
+8:47 PM: AngryPheldagrif is being attacked by: Spike Jester
+8:47 PM: FlossDaily plays Mountain.
+8:47 PM: FlossDaily casts Kathari Bomber.
+8:47 PM: Turn 3: AngryPheldagrif.
+8:47 PM: AngryPheldagrif plays Plains.
+8:47 PM: AngryPheldagrif casts Penumbra Spider.
+8:47 PM: Turn 4: FlossDaily.
+8:47 PM: FlossDaily plays Crumbling Necropolis.
+8:47 PM: AngryPheldagrif is being attacked by: Kathari Bomber, Spike Jester
+8:47 PM: Penumbra Spider blocks Spike Jester.
+8:47 PM: FlossDaily casts Magma Jet targeting Penumbra Spider.
+8:47 PM: FlossDaily put a card on the bottom of the library.
+8:47 PM: FlossDaily put a card on the bottom of the library.
+8:47 PM: FlossDaily puts triggered ability from Kathari Bomber onto the stack (When Kathari Bomber deals combat damage to a player, create 2 1/1 red Goblin creature tokens and s...).
+8:47 PM: AngryPheldagrif puts triggered ability from Penumbra Spider onto the stack (When Penumbra Spider dies, create a 2/4 black Spider creature token with reach.).
+8:47 PM: AngryPheldagrif's Penumbra Spider creates a Spider token.
+8:47 PM: FlossDaily's Kathari Bomber creates two Goblin tokens.
+8:47 PM: Turn 4: AngryPheldagrif.
+8:47 PM: AngryPheldagrif casts Kor Hookmaster.
+8:47 PM: AngryPheldagrif puts triggered ability from Kor Hookmaster onto the stack targeting Goblin token (When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creatur...).
+8:47 PM: Turn 5: FlossDaily.
+8:47 PM: FlossDaily plays Mountain.
+8:47 PM: Turn 5: AngryPheldagrif.
+8:47 PM: AngryPheldagrif plays Golgari Guildgate.
+8:47 PM: FlossDaily casts Chandra's Outrage targeting Spider token.
+8:47 PM: Turn 6: FlossDaily.
+8:47 PM: FlossDaily plays Swamp.
+8:47 PM: FlossDaily activates an ability of Kathari Bomber (Unearth for  ).
+8:47 PM: AngryPheldagrif casts Momentary Blink targeting Kor Hookmaster.
+8:47 PM: AngryPheldagrif puts triggered ability from Kor Hookmaster onto the stack targeting Kathari Bomber (When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creatur...).
+8:47 PM: FlossDaily puts triggered ability from Kathari Bomber onto the stack (Exile the unearthed creature.).
+8:47 PM: Turn 6: AngryPheldagrif.
+8:47 PM: AngryPheldagrif casts Simic Signet.
+8:47 PM: AngryPheldagrif casts Wing Splicer.
+8:47 PM: AngryPheldagrif puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+8:47 PM: AngryPheldagrif's Wing Splicer creates a Golem token.
+8:47 PM: Turn 7: FlossDaily.
+8:47 PM: FlossDaily casts Entomber Exarch.
+8:47 PM: FlossDaily puts triggered ability from Entomber Exarch onto the stack targeting AngryPheldagrif (Target opponent reveals his or her hand, you choose a noncreature card from it, then that player d...).
+8:47 PM: AngryPheldagrif discards Sever the Bloodline.
+8:47 PM: AngryPheldagrif reveals their hand to Entomber Exarch's ability, containing Urbis Protector and Thragtusk.
+8:47 PM: FlossDaily plays Mountain.
+8:48 PM: Turn 7: AngryPheldagrif.
+8:48 PM: AngryPheldagrif casts Thragtusk.
+8:48 PM: AngryPheldagrif puts triggered ability from Thragtusk onto the stack (When Thragtusk enters the battlefield, you gain 5 life.).
+8:48 PM: AngryPheldagrif plays Gruul Guildgate.
+8:48 PM: FlossDaily is being attacked by: Golem token
+8:48 PM: Turn 8: FlossDaily.
+8:48 PM: AngryPheldagrif is being attacked by: Entomber Exarch, Goblin token, Goblin token
+8:48 PM: Kor Hookmaster blocks Entomber Exarch.
+8:48 PM: Thragtusk blocks Goblin token.
+8:48 PM: Kor Hookmaster stops blocking.
+8:48 PM: Thragtusk stops blocking.
+8:48 PM: Thragtusk blocks Entomber Exarch.
+8:48 PM: Kor Hookmaster blocks Goblin token.
+8:48 PM: FlossDaily casts Dynacharge for its overload cost using an alternate cost.
+8:48 PM: AngryPheldagrif puts triggered ability from Thragtusk onto the stack (When Thragtusk leaves the battlefield, create a 3/3 green Beast creature token.).
+8:48 PM: AngryPheldagrif's Thragtusk creates a Beast token.
+8:48 PM: Turn 8: AngryPheldagrif.
+8:48 PM: AngryPheldagrif casts Urbis Protector.
+8:48 PM: AngryPheldagrif puts triggered ability from Urbis Protector onto the stack (When Urbis Protector enters the battlefield, create a 4/4 white Angel creature token with flying.).
+8:48 PM: AngryPheldagrif's Urbis Protector creates an Angel token.
+8:48 PM: FlossDaily is being attacked by: Beast token, Golem token, Wing Splicer
+8:48 PM: Turn 9: FlossDaily.
+8:48 PM: FlossDaily casts Scourge Devil.
+8:48 PM: FlossDaily puts triggered ability from Scourge Devil onto the stack (When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.).
+8:48 PM: Turn 9: AngryPheldagrif.
+8:48 PM: AngryPheldagrif casts Soul Ransom targeting Scourge Devil.
+8:48 PM: FlossDaily has conceded from the game.
+8:48 PM: AngryPheldagrif wins!

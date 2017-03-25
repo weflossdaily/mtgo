@@ -1,0 +1,242 @@
+7:42 AM: Zorak rolled a 5.
+7:42 AM: FlossDaily rolled a 1.
+7:42 AM: FlossDaily joined the game.
+7:42 AM: Zorak chooses to play first.
+7:42 AM: Zorak keeps this hand.
+7:42 AM: FlossDaily mulligans to 6 cards.
+7:42 AM: FlossDaily keeps this hand.
+7:42 AM: FlossDaily put a card on the bottom of the library.
+7:42 AM: Zorak skips their draw step.
+7:42 AM: Zorak plays Azorius Guildgate.
+7:42 AM: Turn 1: FlossDaily.
+7:42 AM: FlossDaily plays Forest.
+7:42 AM: Turn 2: Zorak.
+7:42 AM: Zorak plays Plains.
+7:42 AM: Zorak casts Lone Missionary.
+7:42 AM: Zorak puts triggered ability from Lone Missionary onto the stack (When Lone Missionary enters the battlefield, you gain 4 life.).
+7:42 AM: Turn 2: FlossDaily.
+7:42 AM: FlossDaily plays Island.
+7:42 AM: FlossDaily casts Coiling Oracle.
+7:42 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+7:42 AM: FlossDaily reveals Tandem Lookout with Coiling Oracle's ability.
+7:42 AM: Turn 3: Zorak.
+7:42 AM: Zorak plays Island.
+7:42 AM: Zorak casts Sea Gate Oracle.
+7:42 AM: Zorak puts triggered ability from Sea Gate Oracle onto the stack (When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of...).
+7:42 AM: Turn 3: FlossDaily.
+7:42 AM: FlossDaily plays Plains.
+7:42 AM: FlossDaily casts Death-Hood Cobra.
+7:42 AM: Turn 4: Zorak.
+7:42 AM: Zorak casts Kor Skyfisher.
+7:43 AM: Zorak puts triggered ability from Kor Skyfisher onto the stack (When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.).
+7:43 AM: Zorak returns Sea Gate Oracle to its owner's hand with Kor Skyfisher's ability.
+7:43 AM: Zorak plays Plains.
+7:43 AM: Turn 4: FlossDaily.
+7:43 AM: FlossDaily plays Plains.
+7:43 AM: FlossDaily casts Wing Splicer.
+7:43 AM: FlossDaily puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:43 AM: FlossDaily's Wing Splicer creates a Golem token.
+7:43 AM: Turn 5: Zorak.
+7:43 AM: Zorak plays Island.
+7:43 AM: Zorak casts Sea Gate Oracle.
+7:43 AM: Zorak puts triggered ability from Sea Gate Oracle onto the stack (When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of...).
+7:43 AM: Zorak casts Basilisk Collar.
+7:43 AM: Turn 5: FlossDaily.
+7:43 AM: FlossDaily plays Forest.
+7:43 AM: FlossDaily casts Tandem Lookout.
+7:43 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When this creature enters the battlefield, you may pair it with another unpaired creat...).
+7:43 AM: Zorak is being attacked by: Golem token
+7:43 AM: Zorak casts Path to Exile targeting Golem token.
+7:43 AM: FlossDaily casts Kor Skyfisher.
+7:43 AM: FlossDaily puts triggered ability from Kor Skyfisher onto the stack (When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.).
+7:43 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When another creature enters the battlefield, you may pair this creature with it.)).
+7:43 AM: FlossDaily returns Wing Splicer to its owner's hand with Kor Skyfisher's ability.
+7:43 AM: Turn 6: Zorak.
+7:43 AM: Zorak plays Plains.
+7:43 AM: Zorak casts Sensor Splicer.
+7:43 AM: Zorak puts triggered ability from Sensor Splicer onto the stack (When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:43 AM: Zorak's Sensor Splicer creates a Golem token.
+7:43 AM: Turn 6: FlossDaily.
+7:43 AM: FlossDaily casts Unflinching Courage targeting Kor Skyfisher.
+7:43 AM: Zorak is being attacked by: Kor Skyfisher
+7:43 AM: FlossDaily puts triggered ability from Kor Skyfisher onto the stack (Whenever this creature deals damage to an opponent, draw a card.).
+7:43 AM: FlossDaily draws a card with Kor Skyfisher's ability.
+7:43 AM: Turn 7: Zorak.
+7:43 AM: Zorak plays Plains.
+7:43 AM: Zorak activates an ability of Basilisk Collar targeting Golem token (Equip  ).
+7:43 AM: FlossDaily is being attacked by: Golem token
+7:43 AM: Coiling Oracle blocks Golem token.
+7:43 AM: FlossDaily casts Graceful Reprieve targeting Coiling Oracle.
+7:43 AM: FlossDaily puts triggered ability from Graceful Reprieve onto the stack (When Coiling Oracle dies this turn, return it to the battlefield under FlossDaily's control.).
+7:43 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+7:43 AM: FlossDaily reveals Mist Raven with Coiling Oracle's ability.
+7:43 AM: Zorak casts Flickerwisp.
+7:43 AM: Zorak puts triggered ability from Flickerwisp onto the stack targeting Kor Skyfisher (When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the b...).
+7:43 AM: Zorak puts triggered ability from Flickerwisp onto the stack (Return Kor Skyfisher to the battlefield under its owner's control at the beginning of the next end...).
+7:43 AM: FlossDaily puts triggered ability from Kor Skyfisher onto the stack (When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.).
+7:43 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When another creature enters the battlefield, you may pair this creature with it.)).
+7:44 AM: FlossDaily returns Coiling Oracle to its owner's hand with Kor Skyfisher's ability.
+7:44 AM: Turn 7: FlossDaily.
+7:44 AM: FlossDaily casts Coiling Oracle.
+7:44 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+7:44 AM: FlossDaily reveals Mystic Genesis with Coiling Oracle's ability.
+7:44 AM: FlossDaily casts Wing Splicer.
+7:44 AM: FlossDaily puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:44 AM: FlossDaily's Wing Splicer creates a Golem token.
+7:44 AM: Turn 8: Zorak.
+7:44 AM: FlossDaily is being attacked by: Golem token
+7:44 AM: Golem token blocks Golem token.
+7:44 AM: Zorak casts Sensor Splicer.
+7:44 AM: Zorak puts triggered ability from Sensor Splicer onto the stack (When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:44 AM: Zorak's Sensor Splicer creates a Golem token.
+7:44 AM: Zorak activates an ability of Basilisk Collar targeting Kor Skyfisher (Equip  ).
+7:44 AM: Turn 8: FlossDaily.
+7:44 AM: Turn 9: Zorak.
+7:44 AM: FlossDaily is being attacked by: Golem token, Kor Skyfisher
+7:44 AM: Zorak activates an ability of Basilisk Collar targeting Sensor Splicer (Equip  ).
+7:44 AM: FlossDaily casts Gifts Ungiven targeting Zorak.
+7:44 AM: FlossDaily reveals Coiling Oracle.
+7:44 AM: FlossDaily reveals Forbidden Alchemy.
+7:44 AM: FlossDaily reveals Grasp of Phantoms.
+7:44 AM: FlossDaily reveals Fists of Ironwood.
+7:44 AM: Turn 9: FlossDaily.
+7:44 AM: FlossDaily plays Azorius Guildgate.
+7:44 AM: FlossDaily casts Wayfaring Temple.
+7:44 AM: FlossDaily casts Fists of Ironwood targeting Kor Skyfisher.
+7:44 AM: FlossDaily puts triggered ability from Fists of Ironwood onto the stack (When Fists of Ironwood enters the battlefield, create 2 1/1 green Saproling creature tokens.).
+7:44 AM: FlossDaily's Fists of Ironwood creates two Saproling tokens.
+7:44 AM: Turn 10: Zorak.
+7:44 AM: Zorak casts Wing Splicer.
+7:44 AM: Zorak puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:44 AM: Zorak's Wing Splicer creates a Golem token.
+7:44 AM: Zorak plays Island.
+7:44 AM: Zorak activates an ability of Basilisk Collar targeting Golem token (Equip  ).
+7:44 AM: FlossDaily is being attacked by: Golem token
+7:44 AM: Zorak activates an ability of Basilisk Collar targeting Sensor Splicer (Equip  ).
+7:44 AM: Turn 10: FlossDaily.
+7:44 AM: FlossDaily plays Island.
+7:44 AM: FlossDaily casts Mist Raven.
+7:44 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Golem token (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+7:44 AM: FlossDaily returns Golem token to its owner's hand with Mist Raven's ability.
+7:44 AM: Turn 11: Zorak.
+7:44 AM: Zorak activates an ability of Basilisk Collar targeting Golem token (Equip  ).
+7:45 AM: FlossDaily is being attacked by: Golem token
+7:45 AM: Zorak plays Island.
+7:45 AM: Zorak casts Deputy of Acquittals.
+7:45 AM: Zorak puts triggered ability from Deputy of Acquittals onto the stack targeting Flickerwisp (When Deputy of Acquittals enters the battlefield, you may return another target creature you contr...).
+7:45 AM: Zorak returns Flickerwisp to its owner's hand with Deputy of Acquittals's ability.
+7:45 AM: Zorak casts Flickerwisp.
+7:45 AM: Zorak puts triggered ability from Flickerwisp onto the stack targeting Sensor Splicer (When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the b...).
+7:45 AM: FlossDaily casts Forbidden Alchemy.
+7:45 AM: FlossDaily puts Selesnya Guildgate, Forest, and Forest into their graveyard..
+7:45 AM: Zorak activates an ability of Basilisk Collar targeting Sensor Splicer (Equip  ).
+7:45 AM: Zorak puts triggered ability from Flickerwisp onto the stack (Return Sensor Splicer to the battlefield under its owner's control at the beginning of the next en...).
+7:45 AM: Zorak puts triggered ability from Sensor Splicer onto the stack (When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:45 AM: Zorak's Sensor Splicer creates a Golem token.
+7:45 AM: Turn 11: FlossDaily.
+7:45 AM: FlossDaily casts Mistmeadow Witch.
+7:45 AM: Turn 12: Zorak.
+7:45 AM: FlossDaily is being attacked by: Golem token, Flickerwisp, Golem token, Kor Skyfisher
+7:45 AM: Kor Skyfisher blocks Kor Skyfisher.
+7:45 AM: Mist Raven blocks Flickerwisp.
+7:45 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Mist Raven ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:45 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Mist Raven to the battlefield under its owner's control at the beginning of the next end st...).
+7:45 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Golem token (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+7:45 AM: FlossDaily returns Golem token to its owner's hand with Mist Raven's ability.
+7:45 AM: Turn 12: FlossDaily.
+7:45 AM: FlossDaily plays Island.
+7:45 AM: FlossDaily casts Lone Missionary.
+7:45 AM: FlossDaily puts triggered ability from Lone Missionary onto the stack (When Lone Missionary enters the battlefield, you gain 4 life.).
+7:45 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Mist Raven ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:45 AM: FlossDaily casts Death-Hood Cobra.
+7:45 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Mist Raven to the battlefield under its owner's control at the beginning of the next end st...).
+7:45 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Golem token (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+7:45 AM: FlossDaily returns Golem token to its owner's hand with Mist Raven's ability.
+7:45 AM: Turn 13: Zorak.
+7:45 AM: Zorak casts Attended Knight.
+7:45 AM: Zorak puts triggered ability from Attended Knight onto the stack (When Attended Knight enters the battlefield, create a 1/1 white Soldier creature token.).
+7:45 AM: Zorak's Attended Knight creates a Soldier token.
+7:45 AM: Zorak activates an ability of Basilisk Collar targeting Attended Knight (Equip  ).
+7:45 AM: Turn 13: FlossDaily.
+7:45 AM: FlossDaily plays Selesnya Guildgate.
+7:45 AM: Turn 14: Zorak.
+7:46 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Wing Splicer ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:46 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Lone Missionary ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:46 AM: Turn 14: FlossDaily.
+7:46 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Wing Splicer to the battlefield under its owner's control at the beginning of the next end ...).
+7:46 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Lone Missionary to the battlefield under its owner's control at the beginning of the next e...).
+7:46 AM: FlossDaily puts triggered ability from Lone Missionary onto the stack (When Lone Missionary enters the battlefield, you gain 4 life.).
+7:46 AM: FlossDaily puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:46 AM: FlossDaily's Wing Splicer creates a Golem token.
+7:46 AM: Turn 15: Zorak.
+7:46 AM: Zorak plays Island.
+7:46 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Wing Splicer ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:46 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Lone Missionary ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:46 AM: Zorak casts Aethermage's Touch.
+7:46 AM: Zorak put a card on the bottom of the library.
+7:46 AM: Zorak put a card on the bottom of the library.
+7:46 AM: Zorak put a card on the bottom of the library.
+7:46 AM: Zorak puts triggered ability from Master Splicer onto the stack (When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:46 AM: Zorak's Master Splicer creates a Golem token.
+7:46 AM: Zorak puts triggered ability from Master Splicer onto the stack (Return to hand).
+7:46 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Wing Splicer to the battlefield under its owner's control at the beginning of the next end ...).
+7:46 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Lone Missionary to the battlefield under its owner's control at the beginning of the next e...).
+7:46 AM: FlossDaily puts triggered ability from Lone Missionary onto the stack (When Lone Missionary enters the battlefield, you gain 4 life.).
+7:46 AM: FlossDaily puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:46 AM: FlossDaily's Wing Splicer creates a Golem token.
+7:46 AM: Turn 15: FlossDaily.
+7:46 AM: FlossDaily casts Sylvan Ranger.
+7:46 AM: FlossDaily puts triggered ability from Sylvan Ranger onto the stack (When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reve...).
+7:46 AM: FlossDaily chooses not to use Sylvan Ranger's ability.
+7:46 AM: Turn 16: Zorak.
+7:46 AM: Zorak activates an ability of Basilisk Collar targeting Golem token (Equip  ).
+7:46 AM: FlossDaily is being attacked by: Golem token
+7:46 AM: Mist Raven blocks Golem token.
+7:46 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Mist Raven ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:47 AM: Zorak casts Master Splicer.
+7:47 AM: Zorak puts triggered ability from Master Splicer onto the stack (When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:47 AM: Zorak's Master Splicer creates a Golem token.
+7:47 AM: Zorak activates an ability of Basilisk Collar targeting Attended Knight (Equip  ).
+7:47 AM: Zorak plays Plains.
+7:47 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Wing Splicer ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:47 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Wing Splicer to the battlefield under its owner's control at the beginning of the next end ...).
+7:47 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Mist Raven to the battlefield under its owner's control at the beginning of the next end st...).
+7:47 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Golem token (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+7:47 AM: FlossDaily returns Golem token to its owner's hand with Mist Raven's ability.
+7:47 AM: FlossDaily puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:47 AM: FlossDaily's Wing Splicer creates a Golem token.
+7:47 AM: Turn 16: FlossDaily.
+7:47 AM: FlossDaily plays Plains.
+7:47 AM: FlossDaily casts Tandem Lookout.
+7:47 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When this creature enters the battlefield, you may pair it with another unpaired creat...).
+7:47 AM: Turn 17: Zorak.
+7:47 AM: Zorak activates an ability of Basilisk Collar targeting Golem token (Equip  ).
+7:47 AM: FlossDaily is being attacked by: Golem token
+7:47 AM: Mist Raven blocks Golem token.
+7:47 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Mist Raven ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:47 AM: Zorak activates an ability of Basilisk Collar targeting Kor Skyfisher (Equip  ).
+7:47 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Wing Splicer ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+7:47 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Wing Splicer to the battlefield under its owner's control at the beginning of the next end ...).
+7:47 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Mist Raven to the battlefield under its owner's control at the beginning of the next end st...).
+7:47 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Golem token (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+7:47 AM: FlossDaily puts triggered ability from Tandem Lookout onto the stack (Soulbond (When another creature enters the battlefield, you may pair this creature with it.)).
+7:47 AM: FlossDaily returns Golem token to its owner's hand with Mist Raven's ability.
+7:47 AM: FlossDaily puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+7:47 AM: FlossDaily's Wing Splicer creates a Golem token.
+7:47 AM: Turn 17: FlossDaily.
+7:47 AM: FlossDaily plays Forest.
+7:47 AM: Zorak is being attacked.
+7:47 AM: Kor Skyfisher blocks Golem token.
+7:47 AM: Sensor Splicer blocks Wayfaring Temple.
+7:47 AM: Sea Gate Oracle blocks Tandem Lookout.
+7:47 AM: Flickerwisp blocks Golem token.
+7:47 AM: Soldier token blocks Mistmeadow Witch.
+7:47 AM: Master Splicer blocks Tandem Lookout.
+7:47 AM: Master Splicer stops blocking.
+7:47 AM: Attended Knight blocks Tandem Lookout.
+7:47 AM: Attended Knight stops blocking.
+7:47 AM: Sea Gate Oracle stops blocking.
+7:47 AM: Sea Gate Oracle blocks Lone Missionary.
+7:47 AM: Attended Knight blocks Death-Hood Cobra.
+7:47 AM: FlossDaily casts Strength in Numbers targeting Wayfaring Temple.
+7:48 AM: FlossDaily wins!

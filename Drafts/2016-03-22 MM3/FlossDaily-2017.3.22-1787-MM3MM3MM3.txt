@@ -1,0 +1,1410 @@
+Event #: 1787
+Time:    3/22/2017 8:03:05 PM
+Players:
+    NumotTheNummy
+--> FlossDaily
+    SeePete
+    southpark205
+    MonsterFACE
+    Asmo
+    HenryFord513
+    CHTennis
+
+--: Cackling Counterpart
+
+--: Compulsive Research
+
+--: Azorius Signet
+
+------ MM3 ------ 
+
+Pack 1 pick 1:
+    Magma Jet
+    Dregscape Zombie
+    Death-Hood Cobra
+    Bone Splinters
+    Auger Spree
+    Kraken Hatchling
+    Hungry Spriggan
+    Traitorous Instinct
+    Strength in Numbers
+    Pitfall Trap
+    Banishing Stroke
+    Compulsive Research
+    Soul Ransom
+    Cackling Counterpart
+--> Azorius Signet
+
+--: Deadeye Navigator
+
+--: Jungle Shrine
+
+--: Jungle Shrine
+
+--: Jungle Shrine
+
+--: Jungle Shrine
+
+Pack 1 pick 2:
+    Penumbra Spider
+    Boros Guildgate
+    Soul Warden
+    Traitorous Instinct
+    Rewind
+    Eyes in the Skies
+    Aethertow
+    Dregscape Zombie
+    Vampire Aristocrat
+    Death-Hood Cobra
+    Soul Ransom
+    Bronzebeak Moa
+    Deadeye Navigator
+--> Jungle Shrine
+
+--: Madcap Skills
+
+--: Inquisition of Kozilek
+
+--: Inquisition of Kozilek
+
+Pack 1 pick 3:
+    Madcap Skills
+    Soul Warden
+    Gnawing Zombie
+    Hungry Spriggan
+    Golgari Rotwurm
+    Recover
+    Auger Spree
+    Ground Assault
+    Spire Monitor
+    Boros Signet
+    Simic Signet
+--> Inquisition of Kozilek
+    Death-Hood Cobra
+
+--: Talon Trooper
+
+--: Sea Gate Oracle
+
+Pack 1 pick 4:
+    Talon Trooper
+    Bone Splinters
+    Cower in Fear
+    Thunderous Wrath
+    Wake the Reflections
+    Dinrova Horror
+    Soul Warden
+    Ghostly Flicker
+    Gift of Orzhova
+    Fists of Ironwood
+    Izzet Charm
+--> Sea Gate Oracle
+
+--: Sensor Splicer
+
+--: Momentary Blink
+
+Pack 1 pick 5:
+    Sensor Splicer
+    Wingcrafter
+    Slime Molding
+    Rewind
+--> Momentary Blink
+    Gruul Guildgate
+    Revive
+    Recover
+    Battle-Rattle Shaman
+    Wall of Frost
+    Dynacharge
+
+--: Delirium Skeins
+
+--: Putrefy
+
+Pack 1 pick 6:
+    Delirium Skeins
+    Centaur Healer
+    Graceful Reprieve
+    Fists of Ironwood
+    Momentary Blink
+    Pit Keeper
+    Izzet Guildgate
+    Corpse Connoisseur
+--> Putrefy
+    Wingcrafter
+
+--: Traitorous Instinct
+
+--: Skyknight Legionnaire
+
+--: Skyknight Legionnaire
+
+Pack 1 pick 7:
+    Traitorous Instinct
+    Rubblebelt Maaka
+    Eyes in the Skies
+    Arachnus Web
+    Kraken Hatchling
+    Pit Keeper
+    Graceful Reprieve
+    Might of Old Krosa
+--> Skyknight Legionnaire
+
+--: Mudbutton Torchrunner
+
+--: Avacyn's Pilgrim
+
+--: Tandem Lookout
+
+Pack 1 pick 8:
+    Mudbutton Torchrunner
+    Shimmering Grotto
+    Druid's Deliverance
+    Avacyn's Pilgrim
+    Momentary Blink
+    Spire Monitor
+    Baloth Cage Trap
+--> Tandem Lookout
+
+--: Death-Hood Cobra
+
+--: Death-Hood Cobra
+
+--: Death-Hood Cobra
+
+Pack 1 pick 9:
+--> Death-Hood Cobra
+    Bone Splinters
+    Kraken Hatchling
+    Hungry Spriggan
+    Traitorous Instinct
+    Strength in Numbers
+    Pitfall Trap
+
+--: Soul Warden
+
+--: Boros Guildgate
+
+--: Bronzebeak Moa
+
+Pack 1 pick 10:
+    Boros Guildgate
+    Soul Warden
+    Eyes in the Skies
+    Dregscape Zombie
+    Death-Hood Cobra
+--> Bronzebeak Moa
+
+--: Madcap Skills
+
+--: Death-Hood Cobra
+
+--: Death-Hood Cobra
+
+Pack 1 pick 11:
+    Madcap Skills
+    Soul Warden
+    Hungry Spriggan
+    Recover
+--> Death-Hood Cobra
+
+--: Talon Trooper
+
+--: Fists of Ironwood
+
+--: Talon Trooper
+
+--: Talon Trooper
+
+Pack 1 pick 12:
+--> Talon Trooper
+    Bone Splinters
+    Soul Warden
+    Fists of Ironwood
+
+--: Revive
+
+--: Revive
+
+Pack 1 pick 13:
+--> Revive
+    Battle-Rattle Shaman
+    Dynacharge
+
+--: Delirium Skeins
+
+--: Graceful Reprieve
+
+--: Graceful Reprieve
+
+Pack 1 pick 14:
+    Delirium Skeins
+--> Graceful Reprieve
+
+--: Graceful Reprieve
+
+--: Graceful Reprieve
+
+Pack 1 pick 15:
+--> Graceful Reprieve
+
+--: Grafdigger's Cage
+
+--: Grafdigger's Cage
+
+------ MM3 ------ 
+
+Pack 2 pick 1:
+    Gift of Orzhova
+    Pitfall Trap
+    Rewind
+    Shimmering Grotto
+    Druid's Deliverance
+    Call of the Conclave
+    Ogre Jailbreaker
+    Youthful Knight
+    Orzhov Guildgate
+    Mudbutton Torchrunner
+    Pyroclasm
+    Vampire Nighthawk
+    Familiar's Ruse
+--> Grafdigger's Cage
+    Simic Signet
+
+--: Avacyn's Pilgrim
+
+--: Lone Missionary
+
+--: Lone Missionary
+
+--: Lone Missionary
+
+Pack 2 pick 2:
+    Avacyn's Pilgrim
+    Druid's Deliverance
+    Night Terrors
+    Rewind
+    Cower in Fear
+    Mogg Flunkies
+    Burning-Tree Emissary
+    Vampire Aristocrat
+    Explore
+    Momentary Blink
+    Ghor-Clan Rampager
+    Sin Collector
+    Ancient Grudge
+--> Lone Missionary
+
+--: Grixis Slavedriver
+
+--: Centaur Healer
+
+--: Centaur Healer
+
+Pack 2 pick 3:
+    Grixis Slavedriver
+    Battle-Rattle Shaman
+    Penumbra Spider
+--> Centaur Healer
+    Shimmering Grotto
+    Pit Keeper
+    Pitfall Trap
+    Forbidden Alchemy
+    Thunderous Wrath
+    Azure Mage
+    Sunhome Guildmage
+    Vital Splicer
+    Scorched Rusalka
+
+--: Recover
+
+--: Soul Warden
+
+--: Soul Warden
+
+Pack 2 pick 4:
+    Recover
+    Scorched Rusalka
+    Dimir Guildgate
+    Eyes in the Skies
+    Spell Pierce
+    Izzet Guildgate
+    Slaughterhorn
+    Talon Trooper
+    Golgari Signet
+    Teleportal
+    Izzet Signet
+--> Soul Warden
+
+--: Sundering Growth
+
+--: Simic Guildgate
+
+--: Simic Guildgate
+
+Pack 2 pick 5:
+    Selesnya Guildgate
+    Sundering Growth
+    Mogg Flunkies
+    Grasp of Phantoms
+    Penumbra Spider
+    Dregscape Zombie
+    Rakdos Guildgate
+    Momentary Blink
+    Torrent of Souls
+    Goblin Assault
+--> Simic Guildgate
+
+--: Centaur Healer
+
+--: Bronzebeak Moa
+
+Pack 2 pick 6:
+    Centaur Healer
+    Graceful Reprieve
+    Momentary Blink
+    Soul Warden
+    Ghostly Flicker
+    Fists of Ironwood
+    Night Terrors
+    Boros Guildgate
+--> Bronzebeak Moa
+    Sensor Splicer
+
+--: Pit Keeper
+
+--: Momentary Blink
+
+Pack 2 pick 7:
+    Pit Keeper
+    Talon Trooper
+--> Momentary Blink
+    Kraken Hatchling
+    Call of the Conclave
+    Goblin Electromancer
+    Revive
+    Hanweir Lancer
+    Tattermunge Witch
+
+--: Zur the Enchanter
+
+--: Zur the Enchanter
+
+--: Unflinching Courage
+
+Pack 2 pick 8:
+    Kor Skyfisher
+    Explore
+    Recover
+    Rubblebelt Maaka
+    Mogg Flunkies
+--> Unflinching Courage
+    Zur the Enchanter
+    Momentary Blink
+
+--: Gift of Orzhova
+
+--: Call of the Conclave
+
+--: Call of the Conclave
+
+--: Call of the Conclave
+
+Pack 2 pick 9:
+    Gift of Orzhova
+    Shimmering Grotto
+    Druid's Deliverance
+--> Call of the Conclave
+    Youthful Knight
+    Mudbutton Torchrunner
+    Familiar's Ruse
+
+--: Avacyn's Pilgrim
+
+--: Avacyn's Pilgrim
+
+Pack 2 pick 10:
+--> Avacyn's Pilgrim
+    Druid's Deliverance
+    Mogg Flunkies
+    Burning-Tree Emissary
+    Explore
+    Ancient Grudge
+
+--: Penumbra Spider
+
+--: Pitfall Trap
+
+Pack 2 pick 11:
+    Penumbra Spider
+    Shimmering Grotto
+    Pit Keeper
+--> Pitfall Trap
+    Sunhome Guildmage
+
+--: Recover
+
+--: Eyes in the Skies
+
+Pack 2 pick 12:
+    Recover
+--> Eyes in the Skies
+    Spell Pierce
+    Teleportal
+
+--: Mogg Flunkies
+
+--: Momentary Blink
+
+Pack 2 pick 13:
+    Mogg Flunkies
+--> Momentary Blink
+    Goblin Assault
+
+--: Graceful Reprieve
+
+--: Soul Warden
+
+Pack 2 pick 14:
+    Graceful Reprieve
+--> Soul Warden
+
+--: Call of the Conclave
+
+--: Call of the Conclave
+
+Pack 2 pick 15:
+--> Call of the Conclave
+
+--: Hellrider
+
+--: Wayfaring Temple
+
+------ MM3 ------ 
+
+Pack 3 pick 1:
+    Kraken Hatchling
+    Rubblebelt Maaka
+    Gift of Orzhova
+    Boros Guildgate
+    Slaughterhorn
+    Recover
+    Madcap Skills
+    Thunderous Wrath
+    Wake the Reflections
+    Giantbaiting
+    Vital Splicer
+--> Wayfaring Temple
+    Intangible Virtue
+    Hellrider
+    Gruul Guildgate
+
+--: Primal Command
+
+--: Primal Command
+
+Pack 3 pick 2:
+    Scorched Rusalka
+    Sundering Growth
+    Chandra's Outrage
+    Bone Splinters
+    Kraken Hatchling
+    Spire Monitor
+    Death-Hood Cobra
+    Kathari Bomber
+    Kor Hookmaster
+    Jungle Shrine
+    Woolly Thoctar
+    Orzhov Signet
+--> Primal Command
+    Sunhome Guildmage
+
+--: Cower in Fear
+
+--: Path to Exile
+
+--: Path to Exile
+
+Pack 3 pick 3:
+    Cower in Fear
+    Gift of Orzhova
+    Soul Warden
+    Arachnus Web
+    Rakdos Guildgate
+    Dregscape Zombie
+    Mogg Flunkies
+    Graceful Reprieve
+    Izzet Guildgate
+    Serum Visions
+    Master Splicer
+--> Path to Exile
+    Auger Spree
+
+--: Falkenrath Aristocrat
+
+--: Falkenrath Aristocrat
+
+Pack 3 pick 4:
+    Rubblebelt Maaka
+    Thunderous Wrath
+    Aethertow
+    Pitfall Trap
+    Gift of Orzhova
+    Mortician Beetle
+    Penumbra Spider
+    Mystical Teachings
+    Molten Rain
+    Terminate
+    Summoning Trap
+--> Falkenrath Aristocrat
+
+--: Strength in Numbers
+
+--: Lone Missionary
+
+--: Lone Missionary
+
+--: Lone Missionary
+
+Pack 3 pick 5:
+    Strength in Numbers
+--> Lone Missionary
+    Golgari Rotwurm
+    Pit Keeper
+    Dregscape Zombie
+    Battle-Rattle Shaman
+    Kraken Hatchling
+    Mortician Beetle
+    Seal of Doom
+    Savage Lands
+    Carnage Gladiator
+
+--: Strength in Numbers
+
+--: Gideon's Lawkeeper
+
+--: Gideon's Lawkeeper
+
+Pack 3 pick 6:
+    Strength in Numbers
+    Penumbra Spider
+--> Gideon's Lawkeeper
+    Call of the Conclave
+    Momentary Blink
+    Fists of Ironwood
+    Delirium Skeins
+    Rubblebelt Maaka
+    Familiar's Ruse
+    Sylvan Ranger
+
+--: Eyes in the Skies
+
+--: Momentary Blink
+
+Pack 3 pick 7:
+    Gruul Guildgate
+    Eyes in the Skies
+    Mist Raven
+--> Momentary Blink
+    Mystical Teachings
+    Avacyn's Pilgrim
+    Vampire Aristocrat
+    Madcap Skills
+    Thornscape Battlemage
+
+--: Ogre Jailbreaker
+
+--: Vanish into Memory
+
+--: Vanish into Memory
+
+Pack 3 pick 8:
+    Ogre Jailbreaker
+    Deputy of Acquittals
+    Mudbutton Torchrunner
+    Penumbra Spider
+    Wake the Reflections
+    Wall of Denial
+--> Vanish into Memory
+    Vampire Aristocrat
+
+--: Rubblebelt Maaka
+
+--: Vital Splicer
+
+Pack 3 pick 9:
+    Rubblebelt Maaka
+    Boros Guildgate
+    Recover
+    Madcap Skills
+    Wake the Reflections
+--> Vital Splicer
+    Gruul Guildgate
+
+--: Scorched Rusalka
+
+--: Jungle Shrine
+
+--: Sundering Growth
+
+Pack 3 pick 10:
+    Scorched Rusalka
+--> Sundering Growth
+    Kraken Hatchling
+    Jungle Shrine
+    Woolly Thoctar
+    Sunhome Guildmage
+
+--: Cower in Fear
+
+--: Soul Warden
+
+Pack 3 pick 11:
+    Cower in Fear
+--> Soul Warden
+    Rakdos Guildgate
+    Mogg Flunkies
+    Graceful Reprieve
+
+--: Rubblebelt Maaka
+
+--: Mystical Teachings
+
+--: Penumbra Spider
+
+Pack 3 pick 12:
+    Rubblebelt Maaka
+--> Penumbra Spider
+    Mystical Teachings
+    Molten Rain
+
+--: Strength in Numbers
+
+--: Strength in Numbers
+
+Pack 3 pick 13:
+--> Strength in Numbers
+    Pit Keeper
+    Mortician Beetle
+
+--: Strength in Numbers
+
+--: Strength in Numbers
+
+Pack 3 pick 14:
+--> Strength in Numbers
+    Penumbra Spider
+
+--: Madcap Skills
+
+--: Madcap Skills
+
+Pack 3 pick 15:
+--> Madcap Skills
+
+--: Evil Twin
+
+--: Selesnya Signet
+
+------ MM3 ------ 
+
+Pack 1 pick 1:
+    Magma Jet
+    Chandra's Outrage
+    Boros Guildgate
+    Druid's Deliverance
+    Dragon Fodder
+    Hungry Spriggan
+    Strength in Numbers
+    Graceful Reprieve
+    Sea Gate Oracle
+    Pit Keeper
+    Goblin Assault
+    Golgari Germination
+--> Selesnya Signet
+    Evil Twin
+    Orzhov Guildgate
+
+--: Talon Trooper
+
+--: Magma Jet
+
+--: Magma Jet
+
+Pack 1 pick 2:
+    Talon Trooper
+    Penumbra Spider
+--> Magma Jet
+    Spire Monitor
+    Dimir Guildgate
+    Night Terrors
+    Sylvan Ranger
+    Madcap Skills
+    Battle-Rattle Shaman
+    Eyes in the Skies
+    Wall of Denial
+    Moroii
+    Vanish into Memory
+    Goblin Electromancer
+
+--: Death-Hood Cobra
+
+--: Carnage Gladiator
+
+--: Carnage Gladiator
+
+Pack 1 pick 3:
+    Death-Hood Cobra
+    Tandem Lookout
+    Gift of Orzhova
+    Ogre Jailbreaker
+    Spell Pierce
+    Pilfered Plans
+    Hanweir Lancer
+    Lone Missionary
+    Cower in Fear
+    Penumbra Spider
+--> Carnage Gladiator
+    Soul Manipulation
+    Lingering Souls
+
+--: Kraken Hatchling
+
+--: Chandra's Outrage
+
+--: Chandra's Outrage
+
+Pack 1 pick 4:
+    Kraken Hatchling
+    Spire Monitor
+    Simic Guildgate
+--> Chandra's Outrage
+    Graceful Reprieve
+    Deputy of Acquittals
+    Slaughterhorn
+    Wake the Reflections
+    Wall of Denial
+    Moroii
+    Vanish into Memory
+    Kraken Hatchling
+
+--: Traitorous Instinct
+
+--: Thunderous Wrath
+
+--: Thunderous Wrath
+
+Pack 1 pick 5:
+    Traitorous Instinct
+    Grasp of Phantoms
+    Kraken Hatchling
+    Hungry Spriggan
+    Sensor Splicer
+--> Thunderous Wrath
+    Momentary Blink
+    Centaur Healer
+    Boros Signet
+    Simic Signet
+    Agent of Masks
+
+--: Lone Missionary
+
+--: Rubblebelt Maaka
+
+--: Rhox War Monk
+
+--: Rhox War Monk
+
+Pack 1 pick 6:
+    Lone Missionary
+    Ghostly Flicker
+    Arachnus Web
+    Soul Warden
+    Delirium Skeins
+    Attended Knight
+    Madcap Skills
+    Arcane Sanctum
+--> Rhox War Monk
+    Rubblebelt Maaka
+
+--: Traitorous Instinct
+
+--: Pyrewild Shaman
+
+--: Pyrewild Shaman
+
+--: Pyrewild Shaman
+
+Pack 1 pick 7:
+    Traitorous Instinct
+    Seal of Primordium
+    Rubblebelt Maaka
+    Pit Keeper
+    Azorius Guildgate
+    Momentary Blink
+    Ground Assault
+--> Pyrewild Shaman
+    Pit Keeper
+
+--: Grasp of Phantoms
+
+--: Crumbling Necropolis
+
+--: Dregscape Zombie
+
+--: Crumbling Necropolis
+
+Pack 1 pick 8:
+    Grasp of Phantoms
+    Aethertow
+    Mogg Flunkies
+    Shimmering Grotto
+    Dregscape Zombie
+    Izzet Signet
+--> Crumbling Necropolis
+    Izzet Guildgate
+
+--: Druid's Deliverance
+
+--: Dragon Fodder
+
+--: Dragon Fodder
+
+Pack 1 pick 9:
+    Boros Guildgate
+    Druid's Deliverance
+--> Dragon Fodder
+    Hungry Spriggan
+    Strength in Numbers
+    Graceful Reprieve
+    Orzhov Guildgate
+
+--: Night Terrors
+
+--: Battle-Rattle Shaman
+
+--: Goblin Electromancer
+
+Pack 1 pick 10:
+    Night Terrors
+    Madcap Skills
+    Battle-Rattle Shaman
+    Wall of Denial
+    Vanish into Memory
+--> Goblin Electromancer
+
+--: Ogre Jailbreaker
+
+--: Hanweir Lancer
+
+--: Hanweir Lancer
+
+Pack 1 pick 11:
+    Ogre Jailbreaker
+    Spell Pierce
+    Pilfered Plans
+--> Hanweir Lancer
+    Cower in Fear
+
+--: Deputy of Acquittals
+
+--: Wall of Denial
+
+--: Wall of Denial
+
+Pack 1 pick 12:
+    Deputy of Acquittals
+    Wake the Reflections
+--> Wall of Denial
+    Kraken Hatchling
+
+--: Traitorous Instinct
+
+--: Agent of Masks
+
+--: Agent of Masks
+
+Pack 1 pick 13:
+    Traitorous Instinct
+    Boros Signet
+--> Agent of Masks
+
+--: Madcap Skills
+
+--: Rubblebelt Maaka
+
+Pack 1 pick 14:
+    Madcap Skills
+--> Rubblebelt Maaka
+
+--: Rubblebelt Maaka
+
+--: Rubblebelt Maaka
+
+Pack 1 pick 15:
+--> Rubblebelt Maaka
+
+--: Bonfire of the Damned
+
+--: Bonfire of the Damned
+
+--: Bonfire of the Damned
+
+------ MM3 ------ 
+
+Pack 2 pick 1:
+    Traitorous Instinct
+    Golgari Guildgate
+    Pitfall Trap
+    Azorius Guildgate
+    Spike Jester
+    Tandem Lookout
+    Vampire Aristocrat
+    Avacyn's Pilgrim
+    Explore
+    Goblin Electromancer
+    Entomber Exarch
+    Putrefy
+    Boros Signet
+--> Bonfire of the Damned
+    Grisly Spectacle
+
+--: Stony Silence
+
+--: Stony Silence
+
+--: Stony Silence
+
+Pack 2 pick 2:
+    Dimir Guildgate
+    Simic Guildgate
+    Grasp of Phantoms
+    Slaughterhorn
+    Scorched Rusalka
+    Wake the Reflections
+    Pit Keeper
+    Grixis Slavedriver
+    Eyes in the Skies
+    Rhox War Monk
+    Vithian Stinger
+    Agent of Masks
+--> Stony Silence
+    Dimir Guildgate
+
+--: Stony Silence
+
+--: Stony Silence
+
+--: Stony Silence
+
+Pack 2 pick 3:
+    Druid's Deliverance
+    Delirium Skeins
+    Spell Pierce
+    Lone Missionary
+    Simic Guildgate
+    Hanweir Lancer
+    Auger Spree
+    Spike Jester
+    Bone Splinters
+    Pitfall Trap
+    Seaside Citadel
+--> Stony Silence
+    Shimmering Grotto
+
+--: Gnawing Zombie
+
+--: Rakdos Signet
+
+Pack 2 pick 4:
+    Gnawing Zombie
+    Giantbaiting
+    Mudbutton Torchrunner
+    Night Terrors
+    Kor Hookmaster
+    Rootborn Defenses
+    Strength in Numbers
+    Arachnus Web
+    Deputy of Acquittals
+    Grasp of Phantoms
+--> Rakdos Signet
+    Deputy of Acquittals
+
+--: Bone Splinters
+
+--: Sedraxis Specter
+
+Pack 2 pick 5:
+    Bone Splinters
+    Deputy of Acquittals
+    Slime Molding
+    Augur of Bolas
+    Sea Gate Oracle
+    Sensor Splicer
+    Golgari Rotwurm
+    Thundersong Trumpeter
+--> Sedraxis Specter
+    Molten Rain
+    Bone Splinters
+
+--: Kathari Bomber
+
+--: Kathari Bomber
+
+Pack 2 pick 6:
+    Gruul Guildgate
+--> Kathari Bomber
+    Gideon's Lawkeeper
+    Graceful Reprieve
+    Night Terrors
+    Sea Gate Oracle
+    Dragon Fodder
+    Selesnya Guildgate
+    Spire Monitor
+    Orzhov Signet
+
+--: Revive
+
+--: Pyroclasm
+
+Pack 2 pick 7:
+    Izzet Guildgate
+    Revive
+    Mortician Beetle
+    Dragon Fodder
+    Seal of Primordium
+    Shimmering Grotto
+    Rootborn Defenses
+    Ancient Grudge
+--> Pyroclasm
+
+--: Goblin Electromancer
+
+--: Mystical Teachings
+
+--: Mystical Teachings
+
+Pack 2 pick 8:
+    Goblin Electromancer
+    Dynacharge
+    Orzhov Guildgate
+    Pitfall Trap
+    Rubblebelt Maaka
+    Sunhome Guildmage
+    Vital Splicer
+--> Mystical Teachings
+
+--: Traitorous Instinct
+
+--: Entomber Exarch
+
+--: Spike Jester
+
+--: Spike Jester
+
+Pack 2 pick 9:
+    Traitorous Instinct
+    Azorius Guildgate
+--> Spike Jester
+    Explore
+    Goblin Electromancer
+    Entomber Exarch
+    Boros Signet
+
+--: Grasp of Phantoms
+
+--: Dimir Guildgate
+
+--: Dimir Guildgate
+
+Pack 2 pick 10:
+--> Dimir Guildgate
+    Grasp of Phantoms
+    Scorched Rusalka
+    Wake the Reflections
+    Pit Keeper
+    Agent of Masks
+
+--: Druid's Deliverance
+
+--: Hanweir Lancer
+
+Pack 2 pick 11:
+    Druid's Deliverance
+    Delirium Skeins
+    Simic Guildgate
+--> Hanweir Lancer
+    Pitfall Trap
+
+--: Mudbutton Torchrunner
+
+--: Mudbutton Torchrunner
+
+Pack 2 pick 12:
+--> Mudbutton Torchrunner
+    Night Terrors
+    Rootborn Defenses
+    Deputy of Acquittals
+
+--: Augur of Bolas
+
+--: Augur of Bolas
+
+Pack 2 pick 13:
+--> Augur of Bolas
+    Thundersong Trumpeter
+    Molten Rain
+
+--: Night Terrors
+
+--: Orzhov Signet
+
+--: Night Terrors
+
+Pack 2 pick 14:
+--> Night Terrors
+    Orzhov Signet
+
+--: Revive
+
+--: Revive
+
+Pack 2 pick 15:
+--> Revive
+
+--: Grafdigger's Cage
+
+--: Crumbling Necropolis
+
+------ MM3 ------ 
+
+Pack 3 pick 1:
+    Simic Guildgate
+    Rubblebelt Maaka
+    Traitorous Instinct
+    Gruul Guildgate
+    Cower in Fear
+    Hungry Spriggan
+    Kor Skyfisher
+    Ogre Jailbreaker
+    Mist Raven
+    Golgari Rotwurm
+--> Crumbling Necropolis
+    Serum Visions
+    Master Splicer
+    Grafdigger's Cage
+    Pitfall Trap
+
+--: Extractor Demon
+
+--: Extractor Demon
+
+--: Extractor Demon
+
+Pack 3 pick 2:
+    Eyes in the Skies
+    Dregscape Zombie
+    Penumbra Spider
+    Scourge Devil
+    Dragon Fodder
+    Ground Assault
+    Graceful Reprieve
+    Rakdos Guildgate
+    Forbidden Alchemy
+    Gideon's Lawkeeper
+    Abyssal Specter
+    Dimir Signet
+--> Extractor Demon
+    Madcap Skills
+
+--: Rubblebelt Maaka
+
+--: Skirsdag Cultist
+
+--: Skirsdag Cultist
+
+--: Skirsdag Cultist
+
+--: Skirsdag Cultist
+
+Pack 3 pick 3:
+    Rubblebelt Maaka
+    Ground Assault
+    Deputy of Acquittals
+    Goblin Electromancer
+    Gnawing Zombie
+    Penumbra Spider
+    Skyknight Legionnaire
+    Kraken Hatchling
+    Pitfall Trap
+--> Skirsdag Cultist
+    Unflinching Courage
+    Unburial Rites
+    Night Terrors
+
+--: Mizzium Mortars
+
+--: Mizzium Mortars
+
+--: Mizzium Mortars
+
+Pack 3 pick 4:
+    Hanweir Lancer
+    Slime Molding
+    Dregscape Zombie
+    Auger Spree
+    Agony Warp
+    Bone Splinters
+    Spell Pierce
+    Wake the Reflections
+    Scourge Devil
+    Simic Signet
+    Mizzium Mortars
+--> Mizzium Mortars
+
+--: Cackling Counterpart
+
+--: Battle-Rattle Shaman
+
+Pack 3 pick 5:
+    Rakdos Guildgate
+    Sundering Growth
+    Talon Trooper
+    Gideon's Lawkeeper
+    Strength in Numbers
+--> Battle-Rattle Shaman
+    Kor Skyfisher
+    Scourge Devil
+    Gnawing Zombie
+    Azorius Signet
+    Cackling Counterpart
+
+--: Thunderous Wrath
+
+--: Entomber Exarch
+
+--: Entomber Exarch
+
+Pack 3 pick 6:
+    Thunderous Wrath
+    Grasp of Phantoms
+    Simic Guildgate
+    Night Terrors
+    Arachnus Web
+    Golgari Rotwurm
+    Youthful Knight
+    Corpse Connoisseur
+--> Entomber Exarch
+    Crippling Chill
+
+--: Aethertow
+
+--: Dynacharge
+
+Pack 3 pick 7:
+    Aethertow
+    Golgari Rotwurm
+    Goblin Electromancer
+    Gnawing Zombie
+    Giantbaiting
+--> Dynacharge
+    Rootborn Defenses
+    Arachnus Web
+    Compulsive Research
+
+--: Rootborn Defenses
+
+--: Mortician Beetle
+
+--: Spire Monitor
+
+Pack 3 pick 8:
+    Rootborn Defenses
+    Izzet Guildgate
+    Hanweir Lancer
+    Recover
+    Shimmering Grotto
+    Mortician Beetle
+--> Spire Monitor
+    Corpse Connoisseur
+
+--: Rubblebelt Maaka
+
+--: Cower in Fear
+
+--: Cower in Fear
+
+--: Cower in Fear
+
+--: Cower in Fear
+
+Pack 3 pick 9:
+    Rubblebelt Maaka
+    Traitorous Instinct
+    Gruul Guildgate
+--> Cower in Fear
+    Hungry Spriggan
+    Ogre Jailbreaker
+    Pitfall Trap
+
+--: Dregscape Zombie
+
+--: Scourge Devil
+
+Pack 3 pick 10:
+    Dregscape Zombie
+--> Scourge Devil
+    Dragon Fodder
+    Ground Assault
+    Gideon's Lawkeeper
+    Madcap Skills
+
+--: Rubblebelt Maaka
+
+--: Rubblebelt Maaka
+
+--: Rubblebelt Maaka
+
+Pack 3 pick 11:
+--> Rubblebelt Maaka
+    Deputy of Acquittals
+    Goblin Electromancer
+    Skyknight Legionnaire
+    Kraken Hatchling
+
+--: Hanweir Lancer
+
+--: Scourge Devil
+
+Pack 3 pick 12:
+    Hanweir Lancer
+    Dregscape Zombie
+    Wake the Reflections
+--> Scourge Devil
+
+--: Sundering Growth
+
+--: Scourge Devil
+
+Pack 3 pick 13:
+    Sundering Growth
+    Talon Trooper
+--> Scourge Devil
+
+--: Night Terrors
+
+--: Night Terrors
+
+--: Golgari Rotwurm
+
+Pack 3 pick 14:
+    Night Terrors
+--> Golgari Rotwurm
+
+--: Goblin Electromancer
+
+--: Goblin Electromancer
+
+Pack 3 pick 15:
+--> Goblin Electromancer
+

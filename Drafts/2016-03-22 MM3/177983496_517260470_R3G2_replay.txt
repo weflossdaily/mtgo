@@ -1,0 +1,76 @@
+8:00 PM: FlossDaily joined the game.
+8:00 PM: Threll chooses to play first.
+8:00 PM: Threll mulligans to 6 cards.
+8:00 PM: FlossDaily mulligans to 6 cards.
+8:00 PM: Threll keeps this hand.
+8:00 PM: FlossDaily mulligans to 5 cards.
+8:00 PM: FlossDaily keeps this hand.
+8:01 PM: Threll put a card on the bottom of the library.
+8:01 PM: FlossDaily put a card on top of FlossDaily's library.
+8:01 PM: Threll skips their draw step.
+8:01 PM: Threll plays Mountain.
+8:01 PM: Turn 1: FlossDaily.
+8:01 PM: FlossDaily plays Crumbling Necropolis.
+8:01 PM: Turn 2: Threll.
+8:01 PM: Threll plays Swamp.
+8:01 PM: Threll casts Dregscape Zombie.
+8:01 PM: Turn 2: FlossDaily.
+8:01 PM: FlossDaily plays Swamp.
+8:01 PM: FlossDaily casts Rakdos Signet.
+8:01 PM: Turn 3: Threll.
+8:01 PM: Threll plays Swamp.
+8:01 PM: Threll casts Dregscape Zombie.
+8:01 PM: FlossDaily is being attacked by: Dregscape Zombie
+8:01 PM: Turn 3: FlossDaily.
+8:01 PM: FlossDaily plays Mountain.
+8:01 PM: FlossDaily casts Sedraxis Specter.
+8:01 PM: Turn 4: Threll.
+8:01 PM: Threll plays Mountain.
+8:01 PM: FlossDaily is being attacked by: Dregscape Zombie, Dregscape Zombie
+8:01 PM: Threll casts Chandra's Outrage targeting Sedraxis Specter.
+8:01 PM: Turn 4: FlossDaily.
+8:01 PM: FlossDaily plays Island.
+8:07 PM: FlossDaily activates an ability of Sedraxis Specter (Unearth for  ).
+8:07 PM: Threll is being attacked by: Sedraxis Specter
+8:07 PM: FlossDaily puts triggered ability from Sedraxis Specter onto the stack (Whenever Sedraxis Specter deals combat damage to a player, that player discards a card.).
+8:07 PM: Threll discards Swamp.
+8:07 PM: FlossDaily casts Pyrewild Shaman.
+8:07 PM: FlossDaily puts triggered ability from Sedraxis Specter onto the stack (Exile the unearthed creature.).
+8:07 PM: Turn 5: Threll.
+8:07 PM: Threll puts triggered ability from Thunderous Wrath onto the stack (You may cast Thunderous Wrath for its miracle cost.).
+8:07 PM: Threll casts Thunderous Wrath targeting Pyrewild Shaman.
+8:07 PM: FlossDaily is being attacked by: Dregscape Zombie, Dregscape Zombie
+8:07 PM: Turn 5: FlossDaily.
+8:08 PM: FlossDaily casts Scourge Devil.
+8:08 PM: FlossDaily puts triggered ability from Scourge Devil onto the stack (When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.).
+8:08 PM: Turn 6: Threll.
+8:08 PM: FlossDaily is being attacked by: Dregscape Zombie, Dregscape Zombie
+8:08 PM: Scourge Devil blocks Dregscape Zombie.
+8:08 PM: Threll casts Pit Keeper.
+8:08 PM: Threll plays Mountain.
+8:08 PM: Turn 6: FlossDaily.
+8:08 PM: FlossDaily casts Scourge Devil.
+8:08 PM: FlossDaily puts triggered ability from Scourge Devil onto the stack (When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.).
+8:08 PM: Turn 7: Threll.
+8:08 PM: Threll plays Swamp.
+8:08 PM: Turn 7: FlossDaily.
+8:08 PM: FlossDaily casts Spike Jester.
+8:08 PM: Threll is being attacked by: Spike Jester
+8:08 PM: FlossDaily puts triggered ability from Pyrewild Shaman onto the stack (Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is i...).
+8:08 PM: Turn 8: Threll.
+8:08 PM: Threll casts Carnage Gladiator.
+8:08 PM: Threll activates an ability of Dregscape Zombie (Unearth for  ).
+8:08 PM: FlossDaily is being attacked by: Dregscape Zombie, Pit Keeper, Dregscape Zombie
+8:08 PM: Scourge Devil blocks Pit Keeper.
+8:08 PM: Scourge Devil blocks Dregscape Zombie.
+8:08 PM: Threll puts triggered ability from Carnage Gladiator onto the stack (Whenever a creature blocks, that creature's controller loses 1 life. ).
+8:08 PM: Threll puts triggered ability from Carnage Gladiator onto the stack (Whenever a creature blocks, that creature's controller loses 1 life. ).
+8:08 PM: Threll puts triggered ability from Dregscape Zombie onto the stack (Exile the unearthed creature.).
+8:08 PM: Turn 8: FlossDaily.
+8:08 PM: FlossDaily plays Island.
+8:08 PM: Threll is being attacked by: Spike Jester, Scourge Devil, Scourge Devil
+8:08 PM: FlossDaily discards Rubblebelt Maaka.
+8:08 PM: FlossDaily activates an ability of Rubblebelt Maaka targeting Scourge Devil ( Target attacking creature gets +3/+3 until end of turn.).
+8:08 PM: FlossDaily discards Pyrewild Shaman.
+8:08 PM: FlossDaily activates an ability of Pyrewild Shaman targeting Spike Jester ( Target attacking creature gets +3/+1 until end of turn.).
+8:08 PM: FlossDaily wins!

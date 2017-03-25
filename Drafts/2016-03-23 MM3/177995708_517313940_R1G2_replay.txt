@@ -1,0 +1,46 @@
+7:49 AM: FlossDaily joined the game.
+7:50 AM: Zorak chooses to play first.
+7:50 AM: Zorak mulligans to 6 cards.
+7:50 AM: FlossDaily mulligans to 6 cards.
+7:50 AM: Zorak keeps this hand.
+7:50 AM: FlossDaily keeps this hand.
+7:50 AM: Zorak put a card on the bottom of the library.
+7:50 AM: FlossDaily put a card on the bottom of the library.
+7:50 AM: Zorak skips their draw step.
+7:50 AM: Zorak plays Plains.
+7:50 AM: Turn 1: FlossDaily.
+7:50 AM: FlossDaily plays Forest.
+7:50 AM: Turn 2: Zorak.
+7:50 AM: Zorak plays Island.
+7:50 AM: Zorak casts Kor Skyfisher.
+7:50 AM: Zorak puts triggered ability from Kor Skyfisher onto the stack (When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.).
+7:50 AM: Zorak returns Island to its owner's hand with Kor Skyfisher's ability.
+7:50 AM: Turn 2: FlossDaily.
+7:50 AM: FlossDaily plays Plains.
+7:50 AM: FlossDaily casts Death-Hood Cobra.
+7:50 AM: Turn 3: Zorak.
+7:50 AM: Zorak plays Island.
+7:50 AM: FlossDaily is being attacked by: Kor Skyfisher
+7:50 AM: Zorak casts Kor Skyfisher.
+7:50 AM: Zorak puts triggered ability from Kor Skyfisher onto the stack (When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.).
+7:50 AM: Zorak returns Island to its owner's hand with Kor Skyfisher's ability.
+7:50 AM: Turn 3: FlossDaily.
+7:50 AM: FlossDaily plays Forest.
+7:50 AM: FlossDaily casts Wayfaring Temple.
+7:50 AM: Turn 4: Zorak.
+7:50 AM: Zorak plays Island.
+7:50 AM: FlossDaily is being attacked by: Kor Skyfisher, Kor Skyfisher
+7:50 AM: Turn 4: FlossDaily.
+7:50 AM: FlossDaily casts Fists of Ironwood targeting Death-Hood Cobra.
+7:50 AM: FlossDaily puts triggered ability from Fists of Ironwood onto the stack (When Fists of Ironwood enters the battlefield, create 2 1/1 green Saproling creature tokens.).
+7:50 AM: FlossDaily's Fists of Ironwood creates two Saproling tokens.
+7:50 AM: Zorak is being attacked by: Wayfaring Temple, Death-Hood Cobra
+7:50 AM: Zorak casts Deputy of Acquittals.
+7:50 AM: Zorak puts triggered ability from Deputy of Acquittals onto the stack targeting Kor Skyfisher (When Deputy of Acquittals enters the battlefield, you may return another target creature you contr...).
+7:50 AM: Zorak returns Kor Skyfisher to its owner's hand with Deputy of Acquittals's ability.
+7:50 AM: Deputy of Acquittals blocks Death-Hood Cobra.
+7:50 AM: FlossDaily puts triggered ability from Wayfaring Temple onto the stack (Whenever Wayfaring Temple deals combat damage to a player, populate.).
+7:50 AM: Turn 5: Zorak.
+7:50 AM: Zorak plays Plains.
+7:50 AM: Zorak has conceded from the game.
+7:50 AM: FlossDaily wins!

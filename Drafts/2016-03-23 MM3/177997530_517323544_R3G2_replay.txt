@@ -1,0 +1,142 @@
+8:06 AM: FlossDaily joined the game.
+8:06 AM: KidWWF1 chooses to play first.
+8:06 AM: KidWWF1 keeps this hand.
+8:06 AM: FlossDaily keeps this hand.
+8:06 AM: KidWWF1 skips their draw step.
+8:06 AM: KidWWF1 plays Seaside Citadel.
+8:06 AM: Turn 1: FlossDaily.
+8:06 AM: FlossDaily plays Azorius Guildgate.
+8:06 AM: Turn 2: KidWWF1.
+8:06 AM: KidWWF1 plays Forest.
+8:06 AM: KidWWF1 casts Call of the Conclave.
+8:06 AM: KidWWF1's Call of the Conclave creates a Centaur token.
+8:06 AM: Turn 2: FlossDaily.
+8:06 AM: FlossDaily plays Island.
+8:06 AM: Turn 3: KidWWF1.
+8:06 AM: KidWWF1 plays Selesnya Guildgate.
+8:06 AM: FlossDaily is being attacked by: Centaur token
+8:06 AM: KidWWF1 casts Sylvan Ranger.
+8:06 AM: KidWWF1 puts triggered ability from Sylvan Ranger onto the stack (When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reve...).
+8:06 AM: KidWWF1 reveals Plains.
+8:06 AM: Turn 3: FlossDaily.
+8:06 AM: FlossDaily casts Mistmeadow Witch.
+8:07 AM: Turn 4: KidWWF1.
+8:07 AM: KidWWF1 plays Plains.
+8:07 AM: KidWWF1 casts Arachnus Web targeting Mistmeadow Witch.
+8:07 AM: FlossDaily is being attacked by: Sylvan Ranger, Centaur token
+8:07 AM: Turn 4: FlossDaily.
+8:07 AM: FlossDaily plays Selesnya Guildgate.
+8:07 AM: FlossDaily casts Kor Skyfisher.
+8:07 AM: FlossDaily puts triggered ability from Kor Skyfisher onto the stack (When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.).
+8:07 AM: FlossDaily returns Mistmeadow Witch to its owner's hand with Kor Skyfisher's ability.
+8:07 AM: Turn 5: KidWWF1.
+8:07 AM: KidWWF1 plays Forest.
+8:07 AM: FlossDaily is being attacked by: Centaur token
+8:07 AM: Turn 5: FlossDaily.
+8:07 AM: FlossDaily plays Island.
+8:07 AM: KidWWF1 is being attacked by: Kor Skyfisher
+8:07 AM: FlossDaily casts Mist Raven.
+8:07 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Centaur token (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+8:07 AM: FlossDaily returns Centaur token to its owner's hand with Mist Raven's ability.
+8:07 AM: Turn 6: KidWWF1.
+8:07 AM: KidWWF1 plays Forest.
+8:07 AM: KidWWF1 casts Slaughterhorn.
+8:07 AM: Turn 6: FlossDaily.
+8:07 AM: FlossDaily plays Island.
+8:07 AM: Turn 7: KidWWF1.
+8:07 AM: KidWWF1 plays Plains.
+8:07 AM: FlossDaily is being attacked by: Slaughterhorn
+8:07 AM: Kor Skyfisher blocks Slaughterhorn.
+8:07 AM: KidWWF1 casts Strength in Numbers targeting Slaughterhorn.
+8:07 AM: FlossDaily casts Mystic Genesis targeting Strength in Numbers.
+8:07 AM: FlossDaily's Mystic Genesis creates an Ooze token.
+8:07 AM: KidWWF1 casts Slime Molding. (X is 4).
+8:07 AM: KidWWF1's Slime Molding creates an Ooze token.
+8:07 AM: Turn 7: FlossDaily.
+8:07 AM: FlossDaily casts Mistmeadow Witch.
+8:07 AM: FlossDaily casts Unflinching Courage targeting Ooze token.
+8:07 AM: Turn 8: KidWWF1.
+8:07 AM: FlossDaily is being attacked by: Ooze token
+8:07 AM: KidWWF1 casts Thragtusk.
+8:07 AM: KidWWF1 puts triggered ability from Thragtusk onto the stack (When Thragtusk enters the battlefield, you gain 5 life.).
+8:07 AM: Turn 8: FlossDaily.
+8:07 AM: FlossDaily plays Forest.
+8:07 AM: FlossDaily casts Death-Hood Cobra.
+8:07 AM: Turn 9: KidWWF1.
+8:07 AM: KidWWF1 casts Avacyn's Pilgrim.
+8:07 AM: KidWWF1 casts Arachnus Spinner.
+8:08 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Mist Raven ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+8:08 AM: Turn 9: FlossDaily.
+8:08 AM: FlossDaily plays Plains.
+8:08 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Mist Raven to the battlefield under its owner's control at the beginning of the next end st...).
+8:08 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Ooze token (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+8:08 AM: FlossDaily returns Ooze token to its owner's hand with Mist Raven's ability.
+8:08 AM: Turn 10: KidWWF1.
+8:08 AM: FlossDaily is being attacked by: Arachnus Spinner, Thragtusk
+8:08 AM: Death-Hood Cobra blocks Arachnus Spinner.
+8:08 AM: Death-Hood Cobra stops blocking.
+8:08 AM: Ooze token blocks Thragtusk.
+8:08 AM: Mist Raven blocks Arachnus Spinner.
+8:08 AM: FlossDaily casts Strength in Numbers targeting Ooze token.
+8:08 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Mist Raven ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+8:08 AM: KidWWF1 puts triggered ability from Thragtusk onto the stack (When Thragtusk leaves the battlefield, create a 3/3 green Beast creature token.).
+8:08 AM: KidWWF1's Thragtusk creates a Beast token.
+8:08 AM: KidWWF1 casts Avacyn's Pilgrim.
+8:08 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Mist Raven to the battlefield under its owner's control at the beginning of the next end st...).
+8:08 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Beast token (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+8:08 AM: FlossDaily returns Beast token to its owner's hand with Mist Raven's ability.
+8:08 AM: Turn 10: FlossDaily.
+8:08 AM: FlossDaily casts Coiling Oracle.
+8:08 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+8:08 AM: FlossDaily reveals Forest with Coiling Oracle's ability.
+8:08 AM: KidWWF1 is being attacked by: Mist Raven, Ooze token
+8:08 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Mist Raven ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+8:08 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Mist Raven to the battlefield under its owner's control at the beginning of the next end st...).
+8:08 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Arachnus Spinner (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+8:08 AM: FlossDaily returns Arachnus Spinner to its owner's hand with Mist Raven's ability.
+8:08 AM: Turn 11: KidWWF1.
+8:08 AM: KidWWF1 casts Arachnus Spinner.
+8:08 AM: KidWWF1 casts Death-Hood Cobra.
+8:08 AM: Turn 11: FlossDaily.
+8:08 AM: Turn 12: KidWWF1.
+8:08 AM: FlossDaily is being attacked by: Death-Hood Cobra
+8:08 AM: Mist Raven blocks Death-Hood Cobra.
+8:08 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Mist Raven ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+8:08 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Coiling Oracle ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+8:09 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Mist Raven to the battlefield under its owner's control at the beginning of the next end st...).
+8:09 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Coiling Oracle to the battlefield under its owner's control at the beginning of the next en...).
+8:09 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+8:09 AM: FlossDaily reveals Forest with Coiling Oracle's ability.
+8:09 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Arachnus Spinner (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+8:09 AM: FlossDaily returns Arachnus Spinner to its owner's hand with Mist Raven's ability.
+8:09 AM: Turn 12: FlossDaily.
+8:09 AM: FlossDaily plays Plains.
+8:09 AM: KidWWF1 is being attacked by: Mist Raven, Ooze token
+8:09 AM: FlossDaily casts Death-Hood Cobra.
+8:09 AM: Turn 13: KidWWF1.
+8:09 AM: KidWWF1 plays Forest.
+8:09 AM: KidWWF1 casts Arachnus Spinner.
+8:09 AM: KidWWF1 casts Attended Knight.
+8:09 AM: KidWWF1 puts triggered ability from Attended Knight onto the stack (When Attended Knight enters the battlefield, create a 1/1 white Soldier creature token.).
+8:09 AM: KidWWF1's Attended Knight creates a Soldier token.
+8:09 AM: FlossDaily casts Gifts Ungiven targeting KidWWF1.
+8:09 AM: FlossDaily reveals Wing Splicer.
+8:09 AM: FlossDaily reveals Basilisk Collar.
+8:09 AM: FlossDaily reveals Grasp of Phantoms.
+8:09 AM: FlossDaily reveals Coiling Oracle.
+8:09 AM: FlossDaily activates an ability of Mistmeadow Witch targeting Mist Raven ( Exile target creature. Return that card to the battlefield under its owner's control at the begin...).
+8:09 AM: FlossDaily puts triggered ability from Mistmeadow Witch onto the stack (Return Mist Raven to the battlefield under its owner's control at the beginning of the next end st...).
+8:09 AM: FlossDaily puts triggered ability from Mist Raven onto the stack targeting Arachnus Spinner (When Mist Raven enters the battlefield, return target creature to its owner's hand.).
+8:09 AM: FlossDaily returns Arachnus Spinner to its owner's hand with Mist Raven's ability.
+8:09 AM: Turn 13: FlossDaily.
+8:09 AM: FlossDaily plays Plains.
+8:09 AM: FlossDaily casts Coiling Oracle.
+8:09 AM: FlossDaily puts triggered ability from Coiling Oracle onto the stack (When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land ca...).
+8:09 AM: FlossDaily reveals Wayfaring Temple with Coiling Oracle's ability.
+8:09 AM: KidWWF1 is being attacked by: Mist Raven, Ooze token
+8:09 AM: Sylvan Ranger blocks Ooze token.
+8:09 AM: Sylvan Ranger stops blocking.
+8:09 AM: FlossDaily casts Wayfaring Temple.
+8:09 AM: Turn 14: KidWWF1.
+8:09 AM: KidWWF1 has conceded from the game.
+8:09 AM: FlossDaily wins!

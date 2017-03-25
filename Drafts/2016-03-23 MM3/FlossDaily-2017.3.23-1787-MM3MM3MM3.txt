@@ -1,0 +1,704 @@
+Event #: 1787
+Time:    3/23/2017 9:51:49 PM
+Players:
+    RMZeez
+    BrenDanger
+    Captain-Chump
+--> FlossDaily
+    Altec_770
+    Itchyone
+    GraveSeven
+    yuurari_yuko
+
+--: Broodmate Dragon
+
+--: Broodmate Dragon
+
+--: Broodmate Dragon
+
+------ MM3 ------ 
+
+Pack 1 pick 1:
+    Azorius Guildgate
+    Sylvan Ranger
+    Skyknight Legionnaire
+    Rakdos Guildgate
+    Scourge Devil
+    Shimmering Grotto
+    Auger Spree
+    Kor Hookmaster
+    Dregscape Zombie
+    Wingcrafter
+    Familiar's Ruse
+    Corpse Connoisseur
+    Entomber Exarch
+--> Broodmate Dragon
+    Death-Hood Cobra
+
+--: Cruel Ultimatum
+
+--: Mist Raven
+
+--: Mist Raven
+
+Pack 1 pick 2:
+    Fists of Ironwood
+    Ground Assault
+    Augur of Bolas
+--> Mist Raven
+    Gruul Guildgate
+    Vampire Aristocrat
+    Pitfall Trap
+    Rubblebelt Maaka
+    Night Terrors
+    Moroii
+    Vanish into Memory
+    Wall of Frost
+    Cruel Ultimatum
+    Strength in Numbers
+
+--: Graceful Reprieve
+
+--: Soul Ransom
+
+--: Soul Ransom
+
+--: Soul Ransom
+
+Pack 1 pick 3:
+    Graceful Reprieve
+    Grasp of Phantoms
+    Goblin Electromancer
+    Talon Trooper
+    Tandem Lookout
+    Dynacharge
+    Gift of Orzhova
+    Falkenrath Noble
+    Sylvan Ranger
+    Orzhov Guildgate
+--> Soul Ransom
+    Bronzebeak Moa
+    Sin Collector
+
+--: Spire Monitor
+
+--: Grisly Spectacle
+
+--: Grisly Spectacle
+
+Pack 1 pick 4:
+    Spire Monitor
+    Night Terrors
+    Gnawing Zombie
+    Golgari Guildgate
+    Giantbaiting
+--> Grisly Spectacle
+    Hanweir Lancer
+    Sundering Growth
+    Penumbra Spider
+    Baloth Cage Trap
+    Gruul Signet
+    Seal of Primordium
+
+--: Mudbutton Torchrunner
+
+--: Auger Spree
+
+Pack 1 pick 5:
+    Mudbutton Torchrunner
+    Revive
+    Crippling Chill
+--> Auger Spree
+    Falkenrath Noble
+    Azorius Guildgate
+    Sundering Growth
+    Grasp of Phantoms
+    Izzet Charm
+    Banishing Stroke
+    Izzet Guildgate
+
+--: Rubblebelt Maaka
+
+--: Coiling Oracle
+
+--: Coiling Oracle
+
+Pack 1 pick 6:
+    Rubblebelt Maaka
+    Mortician Beetle
+    Seal of Primordium
+    Mudbutton Torchrunner
+    Pilfered Plans
+    Skyknight Legionnaire
+    Death-Hood Cobra
+    Fists of Ironwood
+    Molten Rain
+--> Coiling Oracle
+
+--: Golgari Rotwurm
+
+--: Lone Missionary
+
+--: Lone Missionary
+
+Pack 1 pick 7:
+    Golgari Rotwurm
+    Call of the Conclave
+    Strength in Numbers
+    Gift of Orzhova
+    Rootborn Defenses
+    Rubblebelt Maaka
+    Dregscape Zombie
+    Agent of Masks
+--> Lone Missionary
+
+--: Pyromancer Ascension
+
+--: Torrent of Souls
+
+--: Torrent of Souls
+
+--: Torrent of Souls
+
+Pack 1 pick 8:
+    Spire Monitor
+    Traitorous Instinct
+    Seal of Primordium
+    Rubblebelt Maaka
+    Ground Assault
+--> Torrent of Souls
+    Pyromancer Ascension
+    Corpse Connoisseur
+
+--: Skyknight Legionnaire
+
+--: Azorius Guildgate
+
+--: Azorius Guildgate
+
+Pack 1 pick 9:
+--> Azorius Guildgate
+    Skyknight Legionnaire
+    Scourge Devil
+    Shimmering Grotto
+    Dregscape Zombie
+    Wingcrafter
+    Death-Hood Cobra
+
+--: Fists of Ironwood
+
+--: Gruul Guildgate
+
+--: Gruul Guildgate
+
+Pack 1 pick 10:
+    Fists of Ironwood
+    Ground Assault
+--> Gruul Guildgate
+    Vampire Aristocrat
+    Rubblebelt Maaka
+    Strength in Numbers
+
+--: Graceful Reprieve
+
+--: Sylvan Ranger
+
+--: Sylvan Ranger
+
+Pack 1 pick 11:
+    Graceful Reprieve
+    Grasp of Phantoms
+    Dynacharge
+    Gift of Orzhova
+--> Sylvan Ranger
+
+--: Night Terrors
+
+--: Seal of Primordium
+
+--: Seal of Primordium
+
+Pack 1 pick 12:
+    Night Terrors
+    Giantbaiting
+    Baloth Cage Trap
+--> Seal of Primordium
+
+--: Mudbutton Torchrunner
+
+--: Grasp of Phantoms
+
+--: Grasp of Phantoms
+
+--: Grasp of Phantoms
+
+Pack 1 pick 13:
+    Mudbutton Torchrunner
+    Revive
+--> Grasp of Phantoms
+
+--: Skyknight Legionnaire
+
+--: Fists of Ironwood
+
+Pack 1 pick 14:
+    Skyknight Legionnaire
+--> Fists of Ironwood
+
+--: Strength in Numbers
+
+--: Strength in Numbers
+
+Pack 1 pick 15:
+--> Strength in Numbers
+
+--: Gifts Ungiven
+
+--: Gifts Ungiven
+
+--: Gifts Ungiven
+
+------ MM3 ------ 
+
+Pack 2 pick 1:
+    Graceful Reprieve
+    Thunderous Wrath
+    Seal of Primordium
+    Lone Missionary
+    Golgari Rotwurm
+    Ghostly Flicker
+    Arachnus Web
+    Rewind
+    Soul Warden
+    Delirium Skeins
+    Selesnya Signet
+    Skirsdag Cultist
+    Unflinching Courage
+--> Gifts Ungiven
+    Dregscape Zombie
+
+--: Past in Flames
+
+--: Past in Flames
+
+--: Past in Flames
+
+Pack 2 pick 2:
+    Cower in Fear
+    Spell Pierce
+    Penumbra Spider
+    Falkenrath Noble
+    Tandem Lookout
+    Battle-Rattle Shaman
+    Sensor Splicer
+    Death-Hood Cobra
+    Slaughterhorn
+    Kor Hookmaster
+    Thornscape Battlemage
+    Harmonize
+--> Past in Flames
+    Golgari Guildgate
+
+--: Ranger of Eos
+
+--: Ranger of Eos
+
+--: Ranger of Eos
+
+Pack 2 pick 3:
+    Forbidden Alchemy
+    Gideon's Lawkeeper
+    Night Terrors
+    Burning-Tree Emissary
+    Golgari Guildgate
+    Dregscape Zombie
+    Aethertow
+    Delirium Skeins
+    Fists of Ironwood
+    Tower Gargoyle
+    Goblin Assault
+    Golgari Germination
+--> Ranger of Eos
+
+--: Dregscape Zombie
+
+--: Mistmeadow Witch
+
+--: Mistmeadow Witch
+
+Pack 2 pick 4:
+    Dregscape Zombie
+    Wake the Reflections
+    Traitorous Instinct
+    Grasp of Phantoms
+    Kraken Hatchling
+    Hungry Spriggan
+    Sensor Splicer
+    Momentary Blink
+--> Mistmeadow Witch
+    Ghor-Clan Rampager
+    Sin Collector
+    Wingcrafter
+
+--: Kor Hookmaster
+
+--: Urban Evolution
+
+--: Wing Splicer
+
+--: Wing Splicer
+
+Pack 2 pick 5:
+    Kor Hookmaster
+    Ground Assault
+    Seal of Primordium
+    Mogg Flunkies
+    Selesnya Guildgate
+    Graceful Reprieve
+    Rootborn Defenses
+    Avacyn's Pilgrim
+    Spire Monitor
+--> Wing Splicer
+    Urban Evolution
+
+--: Call of the Conclave
+
+--: Coiling Oracle
+
+--: Coiling Oracle
+
+Pack 2 pick 6:
+    Call of the Conclave
+    Mystical Teachings
+    Fists of Ironwood
+    Eyes in the Skies
+    Night Terrors
+    Traitorous Instinct
+--> Coiling Oracle
+    Giantbaiting
+    Graceful Reprieve
+    Explore
+
+--: Mudbutton Torchrunner
+
+--: Orzhov Guildgate
+
+Pack 2 pick 7:
+    Mudbutton Torchrunner
+    Grasp of Phantoms
+    Scourge Devil
+    Mystical Teachings
+    Cower in Fear
+--> Orzhov Guildgate
+    Pitfall Trap
+    Ancient Grudge
+    Pyroclasm
+
+--: Giantbaiting
+
+--: Selesnya Guildgate
+
+--: Selesnya Guildgate
+
+Pack 2 pick 8:
+    Golgari Guildgate
+    Giantbaiting
+    Soul Warden
+    Dynacharge
+    Slaughterhorn
+    Pyrewild Shaman
+    Tattermunge Witch
+--> Selesnya Guildgate
+
+--: Graceful Reprieve
+
+--: Unflinching Courage
+
+--: Unflinching Courage
+
+Pack 2 pick 9:
+    Graceful Reprieve
+    Seal of Primordium
+    Golgari Rotwurm
+    Delirium Skeins
+    Selesnya Signet
+    Skirsdag Cultist
+--> Unflinching Courage
+
+--: Spell Pierce
+
+--: Tandem Lookout
+
+Pack 2 pick 10:
+    Spell Pierce
+    Penumbra Spider
+--> Tandem Lookout
+    Death-Hood Cobra
+    Slaughterhorn
+    Harmonize
+
+--: Night Terrors
+
+--: Golgari Germination
+
+--: Burning-Tree Emissary
+
+--: Burning-Tree Emissary
+
+--: Burning-Tree Emissary
+
+Pack 2 pick 11:
+    Night Terrors
+--> Burning-Tree Emissary
+    Delirium Skeins
+    Goblin Assault
+    Golgari Germination
+
+--: Traitorous Instinct
+
+--: Wingcrafter
+
+--: Wingcrafter
+
+Pack 2 pick 12:
+    Traitorous Instinct
+    Hungry Spriggan
+    Sin Collector
+--> Wingcrafter
+
+--: Seal of Primordium
+
+--: Selesnya Guildgate
+
+Pack 2 pick 13:
+    Seal of Primordium
+--> Selesnya Guildgate
+    Graceful Reprieve
+
+--: Giantbaiting
+
+--: Giantbaiting
+
+Pack 2 pick 14:
+--> Giantbaiting
+    Graceful Reprieve
+
+--: Cower in Fear
+
+--: Cower in Fear
+
+Pack 2 pick 15:
+--> Cower in Fear
+
+--: Griselbrand
+
+--: Griselbrand
+
+--: Griselbrand
+
+------ MM3 ------ 
+
+Pack 3 pick 1:
+    Dregscape Zombie
+    Seal of Primordium
+    Mogg Flunkies
+    Deputy of Acquittals
+    Wingcrafter
+    Dynacharge
+    Grixis Slavedriver
+    Death-Hood Cobra
+    Pilfered Plans
+    Kor Skyfisher
+    Vampire Nighthawk
+    Familiar's Ruse
+    Corpse Connoisseur
+--> Griselbrand
+    Might of Old Krosa
+
+--: Basilisk Collar
+
+--: Basilisk Collar
+
+--: Basilisk Collar
+
+Pack 3 pick 2:
+    Gnawing Zombie
+    Rootborn Defenses
+    Scorched Rusalka
+    Slime Molding
+    Grasp of Phantoms
+    Aethertow
+    Mogg Flunkies
+    Kor Skyfisher
+    Sylvan Ranger
+    Shimmering Grotto
+    Azure Mage
+    Sunhome Guildmage
+--> Basilisk Collar
+    Scorched Rusalka
+
+--: Pitfall Trap
+
+--: Azorius Guildgate
+
+--: Dimir Guildgate
+
+--: Dimir Guildgate
+
+Pack 3 pick 3:
+    Azorius Guildgate
+    Pitfall Trap
+    Hanweir Lancer
+--> Dimir Guildgate
+    Kathari Bomber
+    Izzet Guildgate
+    Revive
+    Wingcrafter
+    Fists of Ironwood
+    Vampire Aristocrat
+    Teleportal
+    Izzet Signet
+    Slaughterhorn
+
+--: Madcap Skills
+
+--: Forbidden Alchemy
+
+--: Forbidden Alchemy
+
+--: Forbidden Alchemy
+
+Pack 3 pick 4:
+    Madcap Skills
+    Falkenrath Noble
+--> Forbidden Alchemy
+    Wake the Reflections
+    Chandra's Outrage
+    Seal of Primordium
+    Delirium Skeins
+    Izzet Guildgate
+    Spell Pierce
+    Penumbra Spider
+    Boros Signet
+    Simic Signet
+
+--: Spike Jester
+
+--: Tandem Lookout
+
+Pack 3 pick 5:
+    Spike Jester
+    Magma Jet
+    Death-Hood Cobra
+    Gnawing Zombie
+    Dregscape Zombie
+--> Tandem Lookout
+    Skyknight Legionnaire
+    Arachnus Web
+    Carnage Gladiator
+    Soul Manipulation
+    Scourge Devil
+
+--: Damping Matrix
+
+--: Mystic Genesis
+
+--: Mystic Genesis
+
+Pack 3 pick 7:
+    Seal of Primordium
+    Soul Warden
+    Scorched Rusalka
+    Gift of Orzhova
+    Call of the Conclave
+    Dregscape Zombie
+    Golgari Guildgate
+--> Mystic Genesis
+    Cower in Fear
+
+--: Séance
+
+--: Wayfaring Temple
+
+--: Wayfaring Temple
+
+Pack 3 pick 8:
+    Giantbaiting
+    Rubblebelt Maaka
+    Wingcrafter
+    Soul Warden
+    Penumbra Spider
+    Gift of Orzhova
+--> Wayfaring Temple
+    Séance
+
+--: Dregscape Zombie
+
+--: Death-Hood Cobra
+
+Pack 3 pick 9:
+    Dregscape Zombie
+    Seal of Primordium
+    Mogg Flunkies
+    Dynacharge
+--> Death-Hood Cobra
+    Pilfered Plans
+    Familiar's Ruse
+
+--: Rootborn Defenses
+
+--: Kor Skyfisher
+
+Pack 3 pick 10:
+    Rootborn Defenses
+    Scorched Rusalka
+    Slime Molding
+    Mogg Flunkies
+--> Kor Skyfisher
+    Sunhome Guildmage
+
+--: Hanweir Lancer
+
+--: Slaughterhorn
+
+Pack 3 pick 11:
+    Hanweir Lancer
+    Revive
+    Wingcrafter
+    Teleportal
+--> Slaughterhorn
+
+--: Madcap Skills
+
+--: Spell Pierce
+
+Pack 3 pick 12:
+    Madcap Skills
+    Seal of Primordium
+    Delirium Skeins
+--> Spell Pierce
+
+--: Spike Jester
+
+--: Death-Hood Cobra
+
+Pack 3 pick 13:
+    Spike Jester
+--> Death-Hood Cobra
+    Skyknight Legionnaire
+
+--: Rubblebelt Maaka
+
+--: Graceful Reprieve
+
+Pack 3 pick 14:
+    Rubblebelt Maaka
+--> Graceful Reprieve
+
+--: Scorched Rusalka
+
+--: Scorched Rusalka
+
+Pack 3 pick 15:
+--> Scorched Rusalka
+

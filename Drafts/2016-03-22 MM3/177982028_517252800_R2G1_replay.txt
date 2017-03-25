@@ -1,0 +1,156 @@
+8:50 PM: FlossDaily rolled a 2.
+8:50 PM: AngryPheldagrif rolled a 4.
+8:50 PM: FlossDaily joined the game.
+8:51 PM: AngryPheldagrif chooses to play first.
+8:51 PM: AngryPheldagrif keeps this hand.
+8:51 PM: FlossDaily keeps this hand.
+8:51 PM: AngryPheldagrif skips their draw step.
+8:51 PM: AngryPheldagrif plays Golgari Guildgate.
+8:51 PM: Turn 1: FlossDaily.
+8:51 PM: FlossDaily plays Mountain.
+8:51 PM: Turn 2: AngryPheldagrif.
+8:51 PM: AngryPheldagrif plays Azorius Guildgate.
+8:51 PM: Turn 2: FlossDaily.
+8:51 PM: FlossDaily plays Dimir Guildgate.
+8:51 PM: Turn 3: AngryPheldagrif.
+8:51 PM: AngryPheldagrif plays Jungle Shrine.
+8:51 PM: Turn 3: FlossDaily.
+8:51 PM: FlossDaily plays Swamp.
+8:51 PM: FlossDaily casts Sedraxis Specter.
+8:51 PM: Turn 4: AngryPheldagrif.
+8:51 PM: AngryPheldagrif plays Plains.
+8:51 PM: AngryPheldagrif casts Wing Splicer.
+8:51 PM: AngryPheldagrif puts triggered ability from Wing Splicer onto the stack (When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.).
+8:51 PM: AngryPheldagrif's Wing Splicer creates a Golem token.
+8:51 PM: Turn 4: FlossDaily.
+8:51 PM: FlossDaily plays Swamp.
+8:51 PM: FlossDaily casts Magma Jet targeting Wing Splicer.
+8:51 PM: FlossDaily put a card on the bottom of the library.
+8:51 PM: FlossDaily put a card on top of FlossDaily's library.
+8:51 PM: AngryPheldagrif is being attacked by: Sedraxis Specter
+8:51 PM: FlossDaily puts triggered ability from Sedraxis Specter onto the stack (Whenever Sedraxis Specter deals combat damage to a player, that player discards a card.).
+8:51 PM: AngryPheldagrif discards Gruul Guildgate.
+8:51 PM: Turn 5: AngryPheldagrif.
+8:51 PM: FlossDaily is being attacked by: Golem token
+8:51 PM: AngryPheldagrif casts Penumbra Spider.
+8:51 PM: AngryPheldagrif plays Orzhov Guildgate.
+8:51 PM: Turn 5: FlossDaily.
+8:51 PM: FlossDaily plays Mountain.
+8:51 PM: FlossDaily casts Kathari Bomber.
+8:51 PM: AngryPheldagrif is being attacked by: Sedraxis Specter
+8:51 PM: Penumbra Spider blocks Sedraxis Specter.
+8:51 PM: FlossDaily discards Rubblebelt Maaka.
+8:51 PM: FlossDaily activates an ability of Rubblebelt Maaka targeting Sedraxis Specter ( Target attacking creature gets +3/+3 until end of turn.).
+8:51 PM: AngryPheldagrif puts triggered ability from Penumbra Spider onto the stack (When Penumbra Spider dies, create a 2/4 black Spider creature token with reach.).
+8:51 PM: AngryPheldagrif's Penumbra Spider creates a Spider token.
+8:51 PM: Turn 6: AngryPheldagrif.
+8:51 PM: AngryPheldagrif casts Kor Skyfisher.
+8:51 PM: AngryPheldagrif puts triggered ability from Kor Skyfisher onto the stack (When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.).
+8:51 PM: AngryPheldagrif returns Plains to its owner's hand with Kor Skyfisher's ability.
+8:51 PM: AngryPheldagrif plays Golgari Guildgate.
+8:51 PM: FlossDaily is being attacked by: Golem token
+8:51 PM: Turn 6: FlossDaily.
+8:51 PM: FlossDaily casts Battle-Rattle Shaman.
+8:51 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Kathari Bomber (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+8:51 PM: AngryPheldagrif is being attacked by: Kathari Bomber
+8:51 PM: FlossDaily puts triggered ability from Kathari Bomber onto the stack (When Kathari Bomber deals combat damage to a player, create 2 1/1 red Goblin creature tokens and s...).
+8:51 PM: FlossDaily's Kathari Bomber creates two Goblin tokens.
+8:51 PM: Turn 7: AngryPheldagrif.
+8:51 PM: AngryPheldagrif plays Plains.
+8:51 PM: FlossDaily is being attacked by: Golem token
+8:51 PM: Turn 7: FlossDaily.
+8:51 PM: FlossDaily casts Scourge Devil.
+8:52 PM: FlossDaily puts triggered ability from Scourge Devil onto the stack (When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.).
+8:52 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Goblin token (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+8:52 PM: AngryPheldagrif is being attacked by: Goblin token
+8:52 PM: Turn 8: AngryPheldagrif.
+8:52 PM: AngryPheldagrif plays Azorius Guildgate.
+8:52 PM: AngryPheldagrif casts Soul Ransom targeting Sedraxis Specter.
+8:52 PM: Turn 8: FlossDaily.
+8:52 PM: FlossDaily casts Hanweir Lancer.
+8:52 PM: FlossDaily puts triggered ability from Hanweir Lancer onto the stack (Soulbond (When this creature enters the battlefield, you may pair it with another unpaired creat...).
+8:52 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Scourge Devil (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+8:52 PM: AngryPheldagrif is being attacked by: Scourge Devil
+8:52 PM: Spider token blocks Scourge Devil.
+8:52 PM: Golem token blocks Scourge Devil.
+8:52 PM: Kor Skyfisher blocks Scourge Devil.
+8:52 PM: Blockers for Scourge Devil are ordered as follows: Spider token, Golem token, Kor Skyfisher
+8:52 PM: Turn 9: AngryPheldagrif.
+8:52 PM: AngryPheldagrif plays Shimmering Grotto.
+8:52 PM: FlossDaily discards Mizzium Mortars.
+8:52 PM: FlossDaily discards Extractor Demon.
+8:52 PM: FlossDaily activates an ability of Soul Ransom ( Soul Ransom's controller sacrifices it, then draws two cards.).
+8:52 PM: AngryPheldagrif draws two cards with Soul Ransom's ability.
+8:52 PM: AngryPheldagrif casts Soul Warden.
+8:52 PM: AngryPheldagrif casts Sever the Bloodline targeting Sedraxis Specter.
+8:52 PM: Turn 9: FlossDaily.
+8:52 PM: FlossDaily casts Chandra's Outrage targeting Kor Skyfisher.
+8:52 PM: AngryPheldagrif casts Ghostly Flicker targeting Kor Skyfisher, and Soul Warden.
+8:52 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:52 PM: AngryPheldagrif puts triggered ability from Kor Skyfisher onto the stack (When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.).
+8:52 PM: AngryPheldagrif returns Plains to its owner's hand with Kor Skyfisher's ability.
+8:52 PM: FlossDaily's Chandra's Outrage is countered because it has no legal targets.
+8:52 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Goblin token (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+8:52 PM: AngryPheldagrif is being attacked by: Goblin token
+8:52 PM: Turn 10: AngryPheldagrif.
+8:52 PM: AngryPheldagrif plays Plains.
+8:52 PM: AngryPheldagrif casts Sever the Bloodline from the graveyard targeting Battle-Rattle Shaman.
+8:52 PM: Turn 10: FlossDaily.
+8:52 PM: FlossDaily casts Scourge Devil.
+8:52 PM: FlossDaily puts triggered ability from Scourge Devil onto the stack (When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.).
+8:52 PM: FlossDaily puts triggered ability from Hanweir Lancer onto the stack (Soulbond (When another creature enters the battlefield, you may pair this creature with it.)).
+8:52 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:53 PM: AngryPheldagrif is being attacked by: Hanweir Lancer
+8:53 PM: Golem token blocks Hanweir Lancer.
+8:53 PM: Kor Skyfisher blocks Hanweir Lancer.
+8:53 PM: Blockers for Hanweir Lancer are ordered as follows: Kor Skyfisher, Golem token
+8:53 PM: Turn 11: AngryPheldagrif.
+8:53 PM: AngryPheldagrif casts Kor Hookmaster.
+8:53 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:53 PM: AngryPheldagrif puts triggered ability from Kor Hookmaster onto the stack targeting Scourge Devil (When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creatur...).
+8:53 PM: FlossDaily is being attacked by: Golem token
+8:53 PM: Turn 11: FlossDaily.
+8:53 PM: FlossDaily plays Crumbling Necropolis.
+8:53 PM: FlossDaily activates an ability of Extractor Demon (Unearth for  ).
+8:53 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:53 PM: AngryPheldagrif casts Momentary Blink targeting Kor Hookmaster.
+8:53 PM: FlossDaily puts triggered ability from Extractor Demon onto the stack targeting AngryPheldagrif ( Whenever another creature leaves the battlefield, you may have target player put the top 2 cards ...).
+8:53 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:53 PM: AngryPheldagrif puts triggered ability from Kor Hookmaster onto the stack targeting Extractor Demon (When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creatur...).
+8:53 PM: FlossDaily puts triggered ability from Extractor Demon onto the stack (Exile the unearthed creature.).
+8:53 PM: Turn 12: AngryPheldagrif.
+8:53 PM: FlossDaily is being attacked by: Golem token
+8:53 PM: AngryPheldagrif casts Centaur Healer.
+8:53 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:53 PM: AngryPheldagrif puts triggered ability from Centaur Healer onto the stack (When Centaur Healer enters the battlefield, you gain 3 life.).
+8:53 PM: Turn 12: FlossDaily.
+8:53 PM: FlossDaily activates an ability of Kathari Bomber (Unearth for  ).
+8:53 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:53 PM: AngryPheldagrif is being attacked by: Kathari Bomber
+8:53 PM: FlossDaily puts triggered ability from Kathari Bomber onto the stack (When Kathari Bomber deals combat damage to a player, create 2 1/1 red Goblin creature tokens and s...).
+8:53 PM: FlossDaily's Kathari Bomber creates two Goblin tokens.
+8:53 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:53 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:53 PM: FlossDaily puts triggered ability from Kathari Bomber onto the stack (Exile the unearthed creature.).
+8:53 PM: Turn 13: AngryPheldagrif.
+8:53 PM: AngryPheldagrif plays Plains.
+8:53 PM: Turn 13: FlossDaily.
+8:53 PM: FlossDaily plays Mountain.
+8:53 PM: FlossDaily casts Carnage Gladiator.
+8:53 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:53 PM: AngryPheldagrif is being attacked by: Goblin token, Goblin token, Goblin token
+8:53 PM: Kor Hookmaster blocks Goblin token.
+8:53 PM: Centaur Healer blocks Goblin token.
+8:53 PM: Golem token blocks Goblin token.
+8:53 PM: FlossDaily puts triggered ability from Carnage Gladiator onto the stack (Whenever a creature blocks, that creature's controller loses 1 life. ).
+8:53 PM: FlossDaily puts triggered ability from Carnage Gladiator onto the stack (Whenever a creature blocks, that creature's controller loses 1 life. ).
+8:53 PM: FlossDaily puts triggered ability from Carnage Gladiator onto the stack (Whenever a creature blocks, that creature's controller loses 1 life. ).
+8:53 PM: Turn 14: AngryPheldagrif.
+8:53 PM: AngryPheldagrif casts Dinrova Horror.
+8:53 PM: AngryPheldagrif puts triggered ability from Soul Warden onto the stack (Whenever another creature enters the battlefield, you gain 1 life.).
+8:53 PM: AngryPheldagrif puts triggered ability from Dinrova Horror onto the stack targeting Scourge Devil (When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that...).
+8:54 PM: AngryPheldagrif returns Scourge Devil to its owner's hand with Dinrova Horror's ability.
+8:54 PM: FlossDaily discards Thunderous Wrath.
+8:54 PM: FlossDaily is being attacked by: Centaur Healer, Kor Hookmaster, Soul Warden, Golem token
+8:54 PM: FlossDaily has conceded from the game.
+8:54 PM: AngryPheldagrif wins!

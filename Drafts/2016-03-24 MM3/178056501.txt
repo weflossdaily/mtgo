@@ -1,0 +1,198 @@
+11:38 PM: zibb rolled a 6.
+11:38 PM: FlossDaily rolled a 2.
+11:38 PM: FlossDaily joined the game.
+11:38 PM: zibb joined the game.
+11:38 PM: zibb chooses to play first.
+11:38 PM: zibb keeps this hand.
+11:38 PM: FlossDaily keeps this hand.
+11:38 PM: zibb skips their draw step.
+11:38 PM: zibb plays Mountain.
+11:38 PM: Turn 1: FlossDaily.
+11:38 PM: FlossDaily plays Mountain.
+11:38 PM: Turn 2: zibb.
+11:38 PM: zibb plays Mountain.
+11:38 PM: zibb casts Dragon Fodder.
+11:38 PM: zibb's Dragon Fodder creates two Goblin tokens.
+11:38 PM: Turn 2: FlossDaily.
+11:38 PM: FlossDaily plays Swamp.
+11:38 PM: FlossDaily casts Gruul Signet.
+11:38 PM: Turn 3: zibb.
+11:38 PM: FlossDaily is being attacked by: Goblin token, Goblin token
+11:39 PM: zibb plays Mountain.
+11:39 PM: zibb casts Burning-Tree Emissary.
+11:39 PM: zibb puts triggered ability from Burning-Tree Emissary onto the stack (When Burning-Tree Emissary enters the battlefield, add   to your mana pool.).
+11:39 PM: zibb casts Dragon Fodder.
+11:39 PM: zibb's Dragon Fodder creates two Goblin tokens.
+11:39 PM: Turn 3: FlossDaily.
+11:39 PM: FlossDaily plays Mountain.
+11:39 PM: FlossDaily casts Ulvenwald Tracker.
+11:39 PM: FlossDaily casts Kathari Bomber.
+11:39 PM: Turn 4: zibb.
+11:39 PM: zibb casts Gruul Signet.
+11:39 PM: zibb casts Madcap Skills targeting Goblin token.
+11:39 PM: FlossDaily is being attacked by: Goblin token, Goblin token, Burning-Tree Emissary, Goblin token, Goblin token
+11:39 PM: Kathari Bomber blocks Goblin token.
+11:39 PM: Turn 4: FlossDaily.
+11:40 PM: FlossDaily plays Swamp.
+11:40 PM: zibb is being attacked by: Kathari Bomber
+11:40 PM: FlossDaily puts triggered ability from Kathari Bomber onto the stack (When Kathari Bomber deals combat damage to a player, create 2 1/1 red Goblin creature tokens and s...).
+11:40 PM: FlossDaily activates an ability of Ulvenwald Tracker targeting Kathari Bomber, and Goblin token ( Target creature you control fights another target creature.).
+11:40 PM: FlossDaily's Kathari Bomber creates two Goblin tokens.
+11:40 PM: FlossDaily casts Seal of Doom.
+11:40 PM: Turn 5: zibb.
+11:40 PM: zibb casts Tattermunge Witch.
+11:41 PM: FlossDaily is being attacked by: Goblin token, Burning-Tree Emissary, Goblin token
+11:41 PM: Goblin token blocks Goblin token.
+11:41 PM: zibb activates an ability of Tattermunge Witch ( Each blocked creature gets +1/+0 and gains trample until end of turn.).
+11:42 PM: Turn 5: FlossDaily.
+11:42 PM: FlossDaily casts Vampire Nighthawk.
+11:42 PM: FlossDaily activates an ability of Ulvenwald Tracker targeting Vampire Nighthawk, and Tattermunge Witch ( Target creature you control fights another target creature.).
+11:42 PM: Turn 6: zibb.
+11:42 PM: zibb plays Mountain.
+11:43 PM: zibb casts Scourge Devil.
+11:43 PM: zibb puts triggered ability from Scourge Devil onto the stack (When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.).
+11:43 PM: FlossDaily is being attacked by: Burning-Tree Emissary
+11:43 PM: FlossDaily activates an ability of Seal of Doom targeting Burning-Tree Emissary ( Destroy target nonblack creature. It can't be regenerated.).
+11:43 PM: Turn 6: FlossDaily.
+11:43 PM: FlossDaily plays Forest.
+11:43 PM: FlossDaily casts Falkenrath Noble.
+11:43 PM: zibb is being attacked by: Vampire Nighthawk
+11:43 PM: Turn 7: zibb.
+11:44 PM: FlossDaily is being attacked by: Scourge Devil, Goblin token, Goblin token
+11:44 PM: Falkenrath Noble blocks Goblin token.
+11:44 PM: Goblin token blocks Scourge Devil.
+11:44 PM: zibb casts Dynacharge for its overload cost using an alternate cost.
+11:45 PM: FlossDaily activates an ability of Ulvenwald Tracker targeting Vampire Nighthawk, and Goblin token ( Target creature you control fights another target creature.).
+11:45 PM: zibb discards Slaughterhorn.
+11:45 PM: zibb activates an ability of Slaughterhorn targeting Goblin token ( Target attacking creature gets +3/+2 until end of turn.).
+11:45 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:45 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:45 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:45 PM: Turn 7: FlossDaily.
+11:45 PM: FlossDaily plays Forest.
+11:45 PM: FlossDaily casts Grixis Slavedriver.
+11:46 PM: zibb is being attacked by: Falkenrath Noble, Ulvenwald Tracker
+11:46 PM: Turn 8: zibb.
+11:46 PM: zibb casts Chandra's Outrage targeting Grixis Slavedriver.
+11:46 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:46 PM: FlossDaily puts triggered ability from Grixis Slavedriver onto the stack (When Grixis Slavedriver leaves the battlefield, create a 2/2 black Zombie creature token.).
+11:46 PM: FlossDaily's Grixis Slavedriver creates a Zombie token.
+11:46 PM: FlossDaily is being attacked by: Scourge Devil, Goblin token
+11:46 PM: Zombie token blocks Goblin token.
+11:46 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:46 PM: Turn 8: FlossDaily.
+11:47 PM: FlossDaily plays Forest.
+11:47 PM: FlossDaily casts Battle-Rattle Shaman.
+11:47 PM: FlossDaily activates an ability of Grixis Slavedriver (Unearth for  ).
+11:47 PM: FlossDaily puts triggered ability from Battle-Rattle Shaman onto the stack targeting Falkenrath Noble (At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.).
+11:47 PM: zibb has conceded from the game.
+11:47 PM: zibb has left the game.
+11:48 PM: zibb joined the game.
+11:48 PM: FlossDaily joined the game.
+11:48 PM: zibb chooses to play first.
+11:48 PM: zibb keeps this hand.
+11:48 PM: FlossDaily mulligans to 6 cards.
+11:48 PM: FlossDaily keeps this hand.
+11:49 PM: FlossDaily put a card on the bottom of the library.
+11:49 PM: zibb skips their draw step.
+11:49 PM: zibb plays Gruul Guildgate.
+11:49 PM: Turn 1: FlossDaily.
+11:49 PM: FlossDaily plays Mountain.
+11:49 PM: Turn 2: zibb.
+11:49 PM: zibb plays Forest.
+11:49 PM: zibb casts Dragon Fodder.
+11:49 PM: zibb's Dragon Fodder creates two Goblin tokens.
+11:49 PM: Turn 2: FlossDaily.
+11:49 PM: FlossDaily plays Rakdos Guildgate.
+11:49 PM: Turn 3: zibb.
+11:49 PM: FlossDaily is being attacked by: Goblin token, Goblin token
+11:49 PM: zibb plays Mountain.
+11:49 PM: Turn 3: FlossDaily.
+11:49 PM: FlossDaily plays Forest.
+11:49 PM: zibb casts Magma Jet targeting FlossDaily.
+11:49 PM: zibb put a card on top of zibb's library.
+11:49 PM: zibb put a card on the bottom of the library.
+11:49 PM: Turn 4: zibb.
+11:50 PM: zibb plays Forest.
+11:50 PM: zibb casts Giantbaiting.
+11:50 PM: zibb puts triggered ability from Giantbaiting onto the stack (Conspire (As you cast this spell, you may tap two untapped creatures you control that share a co...).
+11:50 PM: zibb's Giantbaiting creates a Giant Warrior token.
+11:50 PM: zibb's Giantbaiting creates a Giant Warrior token.
+11:50 PM: FlossDaily is being attacked by: Giant Warrior token, Giant Warrior token
+11:50 PM: zibb puts triggered ability from Giantbaiting onto the stack (Exile tokens).
+11:50 PM: zibb puts triggered ability from Giantbaiting onto the stack (Exile tokens).
+11:50 PM: Turn 4: FlossDaily.
+11:50 PM: FlossDaily plays Marsh Flats.
+11:50 PM: FlossDaily activates an ability of Marsh Flats ( Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your...).
+11:50 PM: FlossDaily casts Skirsdag Cultist.
+11:50 PM: Turn 5: zibb.
+11:50 PM: zibb plays Mountain.
+11:50 PM: zibb casts Scourge Devil.
+11:50 PM: zibb puts triggered ability from Scourge Devil onto the stack (When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.).
+11:50 PM: FlossDaily is being attacked by: Goblin token, Goblin token
+11:51 PM: Skirsdag Cultist blocks Goblin token.
+11:51 PM: Turn 5: FlossDaily.
+11:51 PM: FlossDaily plays Forest.
+11:51 PM: FlossDaily casts Sever the Bloodline targeting Scourge Devil.
+11:51 PM: Turn 6: zibb.
+11:51 PM: zibb plays Mountain.
+11:51 PM: FlossDaily is being attacked by: Goblin token
+11:51 PM: Turn 6: FlossDaily.
+11:51 PM: FlossDaily plays Mountain.
+11:51 PM: FlossDaily casts Falkenrath Noble.
+11:51 PM: Turn 7: zibb.
+11:51 PM: zibb plays Forest.
+11:51 PM: zibb casts Wort, the Raidmother.
+11:51 PM: zibb puts triggered ability from Wort, the Raidmother onto the stack (When Wort, the Raidmother enters the battlefield, create 2 1/1 red and green Goblin Warrior creatu...).
+11:51 PM: zibb's Wort, the Raidmother creates two Goblin Warrior tokens.
+11:52 PM: Turn 7: FlossDaily.
+11:52 PM: FlossDaily plays Swamp.
+11:52 PM: Turn 8: zibb.
+11:52 PM: FlossDaily is being attacked by: Goblin Warrior token, Goblin Warrior token, Wort, the Raidmother, Goblin token
+11:52 PM: FlossDaily casts Auger Spree targeting Wort, the Raidmother.
+11:52 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:52 PM: Falkenrath Noble blocks Goblin token.
+11:52 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:53 PM: Turn 8: FlossDaily.
+11:53 PM: FlossDaily plays Forest.
+11:53 PM: Turn 9: zibb.
+11:53 PM: zibb plays Mountain.
+11:53 PM: zibb casts Dragon Fodder.
+11:53 PM: zibb's Dragon Fodder creates two Goblin tokens.
+11:53 PM: Turn 9: FlossDaily.
+11:53 PM: FlossDaily plays Mountain.
+11:53 PM: FlossDaily casts Grixis Slavedriver.
+11:53 PM: Turn 10: zibb.
+11:53 PM: zibb plays Mountain.
+11:54 PM: Turn 10: FlossDaily.
+11:54 PM: zibb is being attacked by: Grixis Slavedriver
+11:55 PM: FlossDaily casts Bone Splinters targeting Goblin Warrior token.
+11:55 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:55 PM: FlossDaily puts triggered ability from Grixis Slavedriver onto the stack (When Grixis Slavedriver leaves the battlefield, create a 2/2 black Zombie creature token.).
+11:55 PM: FlossDaily's Grixis Slavedriver creates a Zombie token.
+11:55 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:55 PM: Turn 11: zibb.
+11:55 PM: zibb casts Burning-Tree Emissary.
+11:55 PM: zibb puts triggered ability from Burning-Tree Emissary onto the stack (When Burning-Tree Emissary enters the battlefield, add   to your mana pool.).
+11:55 PM: Turn 11: FlossDaily.
+11:55 PM: FlossDaily activates an ability of Grixis Slavedriver (Unearth for  ).
+11:55 PM: zibb is being attacked by: Grixis Slavedriver
+11:56 PM: FlossDaily casts Seal of Doom.
+11:56 PM: FlossDaily puts triggered ability from Grixis Slavedriver onto the stack (Exile the unearthed creature.).
+11:56 PM: FlossDaily puts triggered ability from Grixis Slavedriver onto the stack (When Grixis Slavedriver leaves the battlefield, create a 2/2 black Zombie creature token.).
+11:56 PM: FlossDaily's Grixis Slavedriver creates a Zombie token.
+11:56 PM: Turn 12: zibb.
+11:56 PM: Turn 12: FlossDaily.
+11:57 PM: zibb is being attacked by: Falkenrath Noble
+11:57 PM: Turn 13: zibb.
+11:58 PM: FlossDaily is being attacked by: Burning-Tree Emissary, Goblin token, Goblin token, Goblin Warrior token
+11:58 PM: FlossDaily activates an ability of Seal of Doom targeting Burning-Tree Emissary ( Destroy target nonblack creature. It can't be regenerated.).
+11:58 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:58 PM: Zombie token blocks Goblin token.
+11:58 PM: Zombie token blocks Goblin token.
+11:58 PM: zibb casts Dynacharge for its overload cost using an alternate cost.
+11:58 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:58 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:58 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:58 PM: FlossDaily puts triggered ability from Falkenrath Noble onto the stack targeting zibb (Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life...).
+11:58 PM: zibb has conceded from the game.
