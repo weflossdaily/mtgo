@@ -31,12 +31,14 @@ For details, see the screenshot in [Undefeated Trophy Snapshots](#undefeated-tro
 ![Undefeated Trophy Snapshots](/Screenshots/League%20Screen%202017-03-18%20at%2011.06.09%20PM.png)
 #### Relationships
 * An **Undefeated Trophy Snapshot** _belongs_ to a **player**
+* An **Undefeated Trophy Snapshot** _is from_ a **League**
 #### Attributes
 * Date Time Stamp
 * Undefeated Trophy Count
 * Last Trophy Earned Date Time Stamp
 ### Active Player Count Snapshots
 #### Relationships
+* A **League** _has_ **Active Player Count Snapshots**
 #### Attributes
 * Player Count
 * Date Time Stamp
